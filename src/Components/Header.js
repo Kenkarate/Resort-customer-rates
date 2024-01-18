@@ -15,7 +15,7 @@ function Header() {
   };
 
   const user = useSelector((state) => state.auth.user);
-  console.log(user);
+  // console.log(user);
   return (
     <div className="p-3 ">
       {/* <img className="lg:w-24 w-16 p-2 " src={image} alt="" />
@@ -35,7 +35,7 @@ function Header() {
       ></script>
 
       <header class=" relative shadow-lg px-3 py-2">
-        <nav class="flex justify-between">
+        <nav class="lg:flex justify-between">
           <div class="w-[130px] md:w-[200px] flex items-center">
             <img
               src={image}
@@ -43,9 +43,21 @@ function Header() {
               alt="LOGO"
               srcset=""
             />
+            <div>
+              <h1 className="text-4xl font-bold p-5">
+                B2C
+              </h1>
+            </div>
+            
           </div>
-          <div class="flex items-center gap-3">
-            <div class="navLinks duration-500 absolute md:static md:w-auto w-full md:h-auto h-[85vh] bg-white flex md:items-center gap-[1.5vw] top-[100%] left-[-100%] px-5 md:py-0 py-5 "></div>
+          <div class="lg:flex items-center gap-3">
+            <div class="navLinks duration-500  md:static md:w-auto md:h-auto  bg-white flex md:items-center gap-[1.5vw] top-[100%] left-[-100%] px-5 md:py-0 py-5 "><div>
+              <p>
+                Season: Sept-Jan & Aprl-May
+                Off Season : Feb-Mar & Jun-Aug
+              </p>
+              Seasonal rates will be applicable on festival dates
+            </div></div>
             {/* <div class="flex items-center gap-2">
               <button
                 type="button"
