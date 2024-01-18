@@ -1,0 +1,2105 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Double bed", "1 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 2,
+      "name": "A2",
+      "description": "",
+      "imagePath": "/Images/a2/7836885.jpg",
+      "gallery": [
+        "/Images/a2/7836885.jpg",
+        "/Images/a2/anex-view.jpg",
+        "/Images/a2/7836835.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Double bed", "1 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 3,
+      "name": "A3",
+      "description": "",
+      "imagePath": "/Images/a3/68546234.jpg",
+      "gallery": [
+        "/Images/a3/68546234.jpg",
+        "/Images/a3/anex-view.jpg",
+        "/Images/a3/6854678.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Double bed", "1 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 4,
+      "name": "A4",
+      "description": "",
+      "imagePath": "/Images/a4/785678967.jpg",
+      "gallery": [
+        "/Images/a4/785678967.jpg",
+        "/Images/a4/78567845.jpg",
+        "/Images/a4/7856789.jpg",
+        "/Images/a4/anex-view.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Double bed", "1 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 5,
+      "name": "123/THMS",
+      "description": "",
+      "imagePath": "/Images/tree 123/654894.jpg",
+      "gallery": [
+        "/Images/tree 123/654894.jpg",
+        "/Images/tree 123/6548942.jpg",
+        "/Images/tree 123/65489469.jpg",
+        "/Images/tree 123/110.jpg"
+      ],
+
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": [
+        "Queen-size bed",
+        "Free Wi-Fi",
+        "Common Balcony",
+        "1 Bathroom"
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "A6",
+      "description": "",
+      "imagePath": "/Images/a5/969763456.jpg",
+      "gallery": [
+        "/Images/a5/969763456.jpg",
+        "/Images/a5/969769345.jpg",
+        "/Images/a5/969769534.jpg",
+        "/Images/a5/969769545.jpg",
+        "/Images/a5/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": [
+        "Interconnected 2 rooms",
+        "2 King Bed",
+        "Queen-size bed",
+        "Common Balcony",
+        "2 Bathroom"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "A7",
+      "description": "",
+      "imagePath": "/Images/a7/9835773.jpg",
+      "gallery": [
+        "/Images/a7/9835773.jpg",
+        "/Images/a7/anex-view.jpg",
+        "/Images/a7/983573.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": [
+        "Interconnected 2 Bedroom ",
+        "2 Bathroom",
+        "Free Wi-Fi",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "A8",
+      "description": "",
+      "imagePath": "/Images/a8/96976234.jpg",
+      "gallery": [
+        "/Images/a8/96976234.jpg",
+        "/Images/a8/9697634.jpg",
+        "/Images/a8/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["2 Double  bed", "1 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 9,
+      "name": "B1",
+      "description": "",
+      "imagePath": "/Images/b1/7456475.jpg",
+      "gallery": [
+        "/Images/b1/7456475.jpg",
+        "/Images/b1/7456474.jpg",
+        "/Images/b1/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["Interconnected 2 Bedroom", "2 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 10,
+      "name": "B2",
+      "description": "",
+      "imagePath": "/Images/b2/15435265.jpg",
+      "gallery": [
+        "/Images/b2/15435265.jpg",
+        "/Images/b2/1543534.jpg",
+        "/Images/b2/15435234.jpg",
+        "/Images/b2/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["Interconnected 2 Bedroom", "2 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 11,
+      "name": "B3",
+      "description": "",
+      "imagePath": "/Images/b3/8456564.jpg",
+      "gallery": [
+        "/Images/b3/8456564.jpg",
+        "/Images/b3/8456584.jpg",
+        "/Images/b3/84565635.jpg",
+        "/Images/b3/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["Interconnected 2 Bedroom", "2 Bathroom", "Common Balcony"]
+    },
+    {
+      "id": 12,
+      "name": "ANNEX1",
+      "description": "",
+      "imagePath": "/Images/annex 1/2456254.jpg",
+      "gallery": ["/Images/annex 1/2456254.jpg", "/Images/annex 1/2456256.jpg"],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ANNEX 2",
+      "description": "",
+      "imagePath": "/Images/annex 2/23645787.jpg",
+      "gallery": ["/Images/annex 2/23645787.jpg", "/Images/annex 2/236457.jpg"],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "ANNEX 3",
+      "description": "",
+      "imagePath": "/Images/annex 3/14234534.jpg",
+      "gallery": [
+        "/Images/annex 3/14234534.jpg",
+        "/Images/annex 3/14234535.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "ANNEX 4",
+      "description": "",
+      "imagePath": "/Images/annex 4/24235245.jpg",
+      "gallery": [
+        "/Images/annex 4/24235245.jpg",
+        "/Images/annex 4/24235223.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "ANNEX 5",
+      "description": "",
+      "imagePath": "/Images/annex 5/8548534.jpg",
+      "gallery": [
+        "/Images/annex 5/8548534.jpg",
+        "/Images/annex 5/8548345.jpg",
+        "/Images/annex 5/85485324.jpg",
+        "/Images/annex 5/85485345.jpg",
+        "/Images/annex 5/85485376.jpg",
+        "/Images/annex 5/85485345423.jpg",
+        "/Images/annex 5/85485858.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": [
+        "2 Bedroom",
+        "Living area",
+        "2 Bathroom",
+        "Common Balcony",
+        "2 Queen-size bed"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "CLA 107",
+      "description": "",
+      "imagePath": "/Images/mini classic 107/046A9831.jpg",
+      "gallery": [
+        "/Images/mini classic 107/046A9831.jpg",
+        "/Images/mini classic 107/046A9840.jpg",
+        "/Images/mini classic 107/046A9833.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "CLA 105",
+      "description": "",
+      "imagePath": "/Images/mini classic 105/53526.jpg",
+      "gallery": [
+        "/Images/mini classic 105/53526.jpg",
+        "/Images/mini classic 105/046A9840.jpg",
+        "/Images/mini classic 105/53527.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": [
+        "1 Queen-size bed",
+
+        "1 Bathroom",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "CLA 999",
+      "description": "",
+      "imagePath": "/Images/mini classic 999/96739343.jpg",
+      "gallery": [
+        "/Images/mini classic 999/96739343.jpg",
+        "/Images/mini classic 999/9673972.jpg",
+        "/Images/mini classic 999/9673979.jpg.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": ["1 Round bed", "1 Bathroom", " Glass view", "Mini Bar"]
+    },
+    {
+      "id": 20,
+      "name": "CLA 1999",
+      "description": "",
+      "imagePath": "/Images/mini classic 1999/8865756.jpg",
+      "gallery": [
+        "/Images/mini classic 1999/8865756.jpg",
+        "/Images/mini classic 1999/886573.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": ["1 Double bed", "1 Bathroom", " Glass view", "Mini Bar"]
+    },
+    {
+      "id": 21,
+      "name": "CLA DLX 109",
+      "description": "",
+      "imagePath": "/Images/classic deluxe  109/48448.jpg",
+      "gallery": [
+        "/Images/classic deluxe  109/48448.jpg",
+        "/Images/classic deluxe  109/48449.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 Bathroom",
+
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "CLA DLX 110",
+      "description": "",
+      "imagePath": "/Images/classic deluxe   110/4845.jpg",
+      "gallery": [
+        "/Images/classic deluxe   110/4845.jpg",
+        "/Images/classic deluxe   110/48450.jpg",
+        "/Images/classic deluxe   110/48451.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Round bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "CLA 1007",
+      "description": "",
+      "imagePath": "/Images/CLASSIC 1007/55748568.jpg",
+      "gallery": [
+        "/Images/CLASSIC 1007/55748568.jpg",
+        "/Images/CLASSIC 1007/55748545.jpg",
+        "/Images/CLASSIC 1007/557485345.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "CLA 1008",
+      "description": "",
+      "imagePath": "/Images/classic 1008/854865454.jpg",
+      "gallery": [
+        "/Images/classic 1008/854865454.jpg",
+        "/Images/classic 1008/854865346.jpg",
+        "/Images/classic 1008/854865456.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "CLA 1009",
+      "description": "",
+      "imagePath": "/Images/classic 1009/875649798.jpg",
+      "gallery": [
+        "/Images/classic 1009/875649798.jpg",
+        "/Images/classic 1009/anex-view.jpg",
+        "/Images/classic 1009/262654256.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "CLA 1010",
+      "description": "",
+      "imagePath": "/Images/classic 1010/198195.jpg",
+      "gallery": [
+        "/Images/classic 1010/198195.jpg",
+        "/Images/classic 1010/3467653.jpg",
+        "/Images/classic 1010/198196.jpg",
+        "/Images/classic 1010/34676235.jpg",
+        "/Images/cla 1010/34676523.jpg",
+        "/Images/classic 1010/198197.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "CLA 2007",
+      "description": "",
+      "imagePath": "/Images/classic 2007/949155852.jpg",
+      "gallery": [
+        "/Images/classic 2007/949155852.jpg",
+        "/Images/classic 2007/9491558234.jpg",
+        "/Images/classic 2007/94915585.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "CLA 2008",
+      "description": "",
+      "imagePath": "/Images/classic 2008/23245436.jpg",
+      "gallery": [
+        "/Images/classic 2008/23245436.jpg",
+        "/Images/classic 2008/23245437.jpg",
+        "/Images/classic 2008/23245439.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "Common Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "CLA 2009",
+      "description": "",
+      "imagePath": "/Images/classic 2009/8194732.jpg",
+      "gallery": [
+        "/Images/classic 2009/8194732.jpg",
+        "/Images/classic 2009/8194733.jpg",
+        "/Images/classic 2009/81947325.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": [
+        "1 Queen-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "CLA 2010",
+      "description": "",
+      "imagePath": "/Images/classic 2010/9248935.jpg",
+      "gallery": [
+        "/Images/classic 2010/9248935.jpg",
+        "/Images/classic 2010/924893.jpg",
+        "/Images/classic 2010/92489353.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC"]
+    },
+    {
+      "id": 31,
+      "name": "CLA DLX 900",
+      "description": "",
+      "imagePath": "/Images/classic deluxe 900/35379694.jpg",
+      "gallery": [
+        "/Images/classic deluxe 900/35379694.jpg",
+        "/Images/classic deluxe 900/3537694.jpg",
+        "/Images/classic deluxe 900/3537835.jpg",
+        "/Images/classic deluxe 900/3537624.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "CLA DLX 1990",
+      "description": "",
+      "imagePath": "/Images/classic deluxe 1990/9673976.jpg",
+      "gallery": [
+        "/Images/classic deluxe 1990/9673976.jpg",
+        "/Images/classic deluxe 1990/9673974.jpg",
+        "/Images/classic deluxe 1990/9673978.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 33,
+      "name": " DLX 116",
+      "description": "",
+      "imagePath": "/Images/deluxe 116/18478185.jpg",
+      "gallery": [
+        "/Images/deluxe 116/18478185.jpg",
+        "/Images/deluxe 116/1847895.jpg",
+        "/Images/deluxe 116/184795159.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "b2b_offSeason": 4500,
+      "rack_rate_offseason": 6000,
+      "b2b_seasonal": 5000,
+      "rack_rate_seasonal": 7000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        " Common Balcony",
+        "Pool View",
+        "1 Bathroom",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 34,
+      "name": " DLX 117",
+      "description": "",
+      "imagePath": "/Images/deluxe 117/1654586.jpg",
+      "gallery": [
+        "/Images/deluxe 117/1654586.jpg",
+        "/Images/deluxe 117/16543586.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "b2b_offSeason": 4500,
+      "rack_rate_offseason": 6000,
+      "b2b_seasonal": 5000,
+      "rack_rate_seasonal": 7000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        " Common Balcony",
+        "Pool View",
+        "1 Bathroom",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 35,
+      "name": " DLX 118",
+      "description": "",
+      "imagePath": "/Images/deluxe 118/4532532.jpg",
+      "gallery": [
+        "/Images/deluxe 118/4532532.jpg",
+        "/Images/deluxe 118/453253474.jpg",
+        "/Images/deluxe 118/45332532.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "b2b_offSeason": 4500,
+      "rack_rate_offseason": 6000,
+      "b2b_seasonal": 5000,
+      "rack_rate_seasonal": 7000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        " Common Balcony",
+        "Pool View",
+        "1 Bathroom",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 36,
+      "name": " DLX 119",
+      "description": "",
+      "imagePath": "/Images/deluxe 119/7657479.jpg",
+      "gallery": [
+        "/Images/deluxe 119/7657479.jpg",
+        "/Images/deluxe 119/76574723.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "b2b_offSeason": 4500,
+      "rack_rate_offseason": 6000,
+      "b2b_seasonal": 5000,
+      "rack_rate_seasonal": 7000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        " Common Balcony",
+        "Pool View",
+        "1 Bathroom",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "CLA 120",
+      "description": "",
+      "imagePath": "/Images/120/1951489.jpg",
+      "gallery": [
+        "/Images/120/1951489.jpg",
+        "/Images/120/19514234.jpg",
+        "/Images/120/19514345.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "2 Queen-size bed",
+        "Balcony",
+        "1 Bathroom",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "CLA 121",
+      "description": "",
+      "imagePath": "/Images/121/491562.jpg",
+      "gallery": [
+        "/Images/121/491562.jpg",
+        "/Images/121/491545.jpg",
+        "/Images/121/491516.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "2 Queen-size bed",
+        "Balcony",
+        "1 Bathroom",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "CLA 122",
+      "description": "",
+      "imagePath": "/Images/122/1416159.jpg",
+      "gallery": [
+        "/Images/122/1416159.jpg",
+        "/Images/122/1416552.jpg",
+        "/Images/122/3.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "b2b_offSeason": 6500,
+      "rack_rate_offseason": 8000,
+      "b2b_seasonal": 7000,
+      "rack_rate_seasonal": 9000,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "2 Queen-size bed",
+        "Balcony",
+        "1 Bathroom",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "CLA 7001",
+      "description": "",
+      "imagePath": "/Images/classic 7001/567657334.jpg",
+      "gallery": [
+        "/Images/classic 7001/567657334.jpg",
+        "/Images/classic 7001/5676574.jpg",
+        "/Images/classic 7001/56765742.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "CLA 7002",
+      "description": "",
+      "imagePath": "/Images/classic 7002/275386245.jpg",
+      "gallery": [
+        "/Images/classic 7002/275386245.jpg",
+        "/Images/classic 7002/27538675.jpg",
+        "/Images/classic 7002/27538653.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "CLA 7003",
+      "description": "",
+      "imagePath": "/Images/classic 7003/3783873456.jpg",
+      "gallery": [
+        "/Images/classic 7003/3783873456.jpg",
+        "/Images/classic 7003/378387398.jpg",
+        "/Images/classic 7003/37838737.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "CLA 7004",
+      "description": "",
+      "imagePath": "/Images/claasic 7004/4574747.jpg",
+      "gallery": [
+        "/Images/claasic 7004/4574747.jpg",
+        "/Images/claasic 7004/4574767.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 King-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "CLA 7005",
+      "description": "",
+      "imagePath": "/Images/classic 7005/6468465.jpg",
+      "gallery": [
+        "/Images/classic 7005/6468465.jpg",
+        "/Images/classic 7005/1561135.jpg",
+        "/Images/classic 7005/564262.jpg",
+        "/Images/classic 7005/419841651.jpg"
+      ],
+      "category": "Classic series",
+      "b2b_offSeason": 4750,
+      "rack_rate_offseason": 6500,
+      "b2b_seasonal": 5250,
+      "rack_rate_seasonal": 7500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 Queen-size bed",
+        "Private Balcony",
+        "1 Bathroom",
+        "Mini Bar",
+        "Non-AC"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "SUPR Q 114",
+      "description": "",
+      "imagePath": "/Images/superior quadra 114/533334514.jpg",
+      "gallery": [
+        "/Images/superior quadra 114/533334514.jpg",
+        "/Images/superior quadra 114/343443634.jpg",
+        "/Images/superior quadra 114/5333345143.jpg",
+        "/Images/superior quadra 114/53333451436.jpg"
+      ],
+      "category": "Family twin bed superior",
+      "b2b_offSeason": 8500,
+      "rack_rate_offseason": 11000,
+      "b2b_seasonal": 9000,
+      "rack_rate_seasonal": 12000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed",
+        "1 Round bed",
+        "Private Balcony",
+        "Bath tub",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "SUPR Q 115",
+      "description": "",
+      "imagePath": "/Images/superior quadra 115/9585445.jpg",
+      "gallery": [
+        "/Images/superior quadra 115/9585445.jpg",
+        "/Images/superior quadra 115/9585448.jpg",
+        "/Images/superior quadra 115/95854338.jpg"
+      ],
+      "category": "Family twin bed superior",
+      "b2b_offSeason": 8500,
+      "rack_rate_offseason": 11000,
+      "b2b_seasonal": 9000,
+      "rack_rate_seasonal": 12000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed",
+        "1 Double bed",
+        "Private Balcony",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "SUPR 1004",
+      "description": "",
+      "imagePath": "/Images/superior 1004/53783872.jpg",
+      "gallery": [
+        "/Images/superior 1004/53783872.jpg",
+        "/Images/superior 1004/4564576653.jpg",
+        "/Images/superior 1004/68418641.jpg",
+        "/Images/superior 1004/818618651.jpg"
+      ],
+      "category": "superior",
+      "rack_rate_offseason": 9000,
+      "b2b_offSeason": 6000,
+      "rack_rate_seasonal": 9000,
+      "b2b_seasonal": 6500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 Bathroom",
+        "Living area",
+        "Mini Bar",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "SUPR 1006",
+      "description": "",
+      "imagePath": "/Images/superior 1006/675735426.jpg",
+      "gallery": [
+        "/Images/superior 1006/675735426.jpg",
+        "/Images/superior 1006/675735436.jpg",
+        "/Images/superior 1006/675732646.jpg"
+      ],
+      "category": "superior",
+      "rack_rate_offseason": 9000,
+      "b2b_offSeason": 6000,
+      "rack_rate_seasonal": 9000,
+      "b2b_seasonal": 6500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 Bathroom",
+        "Living area",
+        "Mini Bar",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "SUPR 2004",
+      "description": "",
+      "imagePath": "/Images/superior 2004/85686534.jpg",
+      "gallery": [
+        "/Images/superior 2004/8536446.jpg",
+        "/Images/superior 2004/8563454.jpg"
+      ],
+      "category": "superior",
+      "rack_rate_offseason": 9000,
+      "b2b_offSeason": 6000,
+      "rack_rate_seasonal": 9000,
+      "b2b_seasonal": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 Bathroom",
+        "Living area",
+        "Mini Bar",
+        "Non-AC",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "SUPR 2006",
+      "description": "",
+      "imagePath": "/Images/superior 2006/87566345.jpg",
+      "gallery": [
+        "/Images/superior 2006/87566345.jpg",
+        "/Images/superior 2006/8756686.jpg",
+        "/Images/superior 2006/8756643.jpg"
+      ],
+      "category": "superior",
+      "rack_rate_offseason": 9000,
+      "b2b_offSeason": 6000,
+      "rack_rate_seasonal": 9000,
+      "b2b_seasonal": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": [
+        "1 Queen-size bed",
+        "1 Bathroom",
+        "Living area",
+        "Mini Bar",
+        "Non-AC",
+        "Common Balcony"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "PREM 1003",
+      "description": "",
+      "imagePath": "/Images/premium 1003/36363463.jpg",
+      "gallery": [
+        "/Images/premium 1003/36363463.jpg",
+        "/Images/premium 1003/46327474.jpg",
+        "/Images/premium 1003/5151315.jpg",
+        "/Images/premium 1003/3535332.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "PREM 1005",
+      "description": "",
+      "imagePath": "/Images/premium 1005/846519523.jpg",
+      "gallery": [
+        "/Images/premium 1005/846519523.jpg",
+        "/Images/premium 1005/846519561.jpg",
+        "/Images/premium 1005/846519596.jpg",
+        "/Images/premium 1005/84651952.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "PREM 2003",
+      "description": "",
+      "imagePath": "/Images/premium 2003/7687635.jpg",
+      "gallery": [
+        "/Images/premium 2003/7687635.jpg",
+        "/Images/premium 2003/7687675.jpg",
+        "/Images/premium 2003/76876294.jpg",
+        "/Images/premium 2003/7687276.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "PREM 2005",
+      "description": "",
+      "imagePath": "/Images/premium 2005/34677537.jpg",
+      "gallery": [
+        "/Images/premium 2005/34677537.jpg",
+        "/Images/premium 2005/34677524.jpg",
+        "/Images/premium 2005/34677234.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "PREMIUM 3003",
+      "description": "",
+      "imagePath": "/Images/premium 3003/343534425.jpg",
+      "gallery": [
+        "/Images/premium 3003/343534425.jpg",
+        "/Images/premium 3003/34534425.jpg",
+        "/Images/premium 3003/3435344225.jpg",
+        "/Images/premium 3003/3453425.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "PREMIUM 112",
+      "description": "",
+      "imagePath": "/Images/premium 112/745847.jpg",
+      "gallery": [
+        "/Images/premium 112/745847.jpg",
+        "/Images/premium 112/5995659.jpg",
+        "/Images/premium 112/745846.jpg",
+        "/Images/premium 112/KMOMOK.jpg",
+        "/Images/premium 112/JFJYUKYK.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 7000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "PREMIUM QUADRA 3002",
+      "description": "",
+      "imagePath": "/Images/premium 2005/34677537.jpg",
+      "gallery": [
+        "/Images/premium 2005/34677537.jpg",
+        "/Images/premium 2005/34677524.jpg",
+        "/Images/premium 2005/34677234.jpg"
+      ],
+      "category": "Premium Quadra Family Room",
+      "b2b_offSeason": 8000,
+      "rack_rate_offseason": 11000,
+      "b2b_seasonal": 9000,
+      "rack_rate_seasonal": 12000,
+      "balcony": "No",
+      "ac": "Yes",
+      "amenities": ["2 Queen-size bed", "1 Bathroom", "Mini Bar"]
+    },
+    {
+      "id": 58,
+      "name": "PREMIUM QUADRA 3004",
+      "description": "",
+      "imagePath": "/Images/premium quadra 3004/76547643.jpg",
+      "gallery": [
+        "/Images/premium quadra 3004/76547643.jpg",
+        "/Images/premium quadra 3004/76547654.jpg",
+        "/Images/premium quadra 3004/76547324.jpg"
+      ],
+      "category": "Premium Quadra Family Room",
+      "b2b_offSeason": 8000,
+      "rack_rate_offseason": 11000,
+      "b2b_seasonal": 9000,
+      "rack_rate_seasonal": 12000,
+      "balcony": "No",
+      "ac": "Yes",
+      "amenities": [
+        "2 King-size bed",
+        "1 Bathroom",
+        "Mini Bar",
+        "Interconnected 2 Bedroom"
+      ]
+    },
+
+    {
+      "id": 60,
+      "name": "PREMIUM CLUB SUITE 102",
+      "description": "",
+      "imagePath": "/Images/premium club suite 102/867857.jpg",
+      "gallery": [
+        "/Images/premium club suite 102/867857.jpg",
+        "/Images/premium club suite 102/867856.jpg",
+        "/Images/premium club suite 102/856853.jpg"
+      ],
+      "category": "Premium",
+      "rack_rate_offseason": 11000,
+      "b2b_offSeason": 8000,
+      "rack_rate_seasonal": 12000,
+      "b2b_seasonal": 8000,
+      "balcony": "No",
+      "ac": "Yes",
+      "amenities": [
+        "Living area",
+        "1 King-size bed",
+        "1 Bathroom",
+        "Private Balcony",
+        "Mountain View",
+        "Mini Bar"
+      ]
+    },
+
+    {
+      "id": 62,
+      "name": "PREMIUM 004",
+      "description": "",
+      "imagePath": "/Images/004/IMG_1279.JPG",
+      "gallery": [
+        "/Images/004/IMG_1279.JPG",
+        "/Images/004/IMG_1282.JPG",
+        "/Images/004/IMG_1285.JPG",
+        "/Images/004/IMG_1287.JPG"
+      ],
+      "category": "Premium Quadra Family Room",
+      "b2b_offSeason": 7000,
+      "rack_rate_offseason": 11000,
+      "b2b_seasonal": 9000,
+      "rack_rate_seasonal": 12000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 Round bed",
+        "1 Queen-size bed",
+        "1 Bathroom",
+        "Private Balcony"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "CCLBS 4001",
+      "description": "",
+      "imagePath": "/Images/club suite 4001/754865.jpg",
+      "gallery": [
+        "/Images/club suite 4001/754865.jpg",
+        "/Images/club suite 4001/75486245.jpg",
+        "/Images/club suite 4001/754864.jpg",
+        "/Images/club suite 4001/7548645.jpg"
+      ],
+      "category": "Corner Club Suit",
+      "b2b_offSeason": 13000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 14500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","Private Balcony","1 Bathroom","Mini Bar","360-degree view"]
+    },
+    {
+      "id": 65,
+      "name": "CCLBS 5001",
+      "description": "",
+      "imagePath": "/Images/club suite 5001/8568535.jpg",
+      "gallery": [
+        "/Images/club suite 5001/8568535.jpg",
+        "/Images/club suite 5001/8568533.jpg",
+        "/Images/club suite 5001/8568536.jpg",
+        "/Images/club suite 5001/8568538.jpg"
+      ],
+      "category": "Corner Club Suit",
+      "b2b_offSeason": 13000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 14500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","Private Balcony","1 Bathroom","Mini Bar","360-degree view"]
+    },
+    {
+      "id": 66,
+      "name": "CLBS 4002",
+      "description": "",
+      "imagePath": "/Images/club suite 4002/8568234.jpg",
+      "gallery": [
+        "/Images/club suite 4002/8568234.jpg",
+        "/Images/club suite 4002/8568356.jpg",
+        "/Images/club suite 4002/856865.jpg",
+        "/Images/club suite 4002/856846.jpg"
+      ],
+      "category": "Club Suite",
+      "b2b_offSeason": 10000,
+      "rack_rate_offseason": 15000,
+      "b2b_seasonal": 11500,
+      "rack_rate_seasonal": 16000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Private Balcony","Mini Bar","90 degree view"]
+    },
+    {
+      "id": 67,
+      "name": "CLBS 4003",
+      "description": "",
+      "imagePath": "/Images/club suite 4003/97698623.jpg",
+      "gallery": [
+        "/Images/club suite 4003/97698623.jpg",
+        "/Images/club suite 4003/76765723.jpg",
+        "/Images/club suite 4003/97698634.jpg",
+        "/Images/club suite 4003/97698674.jpg"
+      ],
+      "category": "Club Suite",
+      "b2b_offSeason": 10000,
+      "rack_rate_offseason": 15000,
+      "b2b_seasonal": 11500,
+      "rack_rate_seasonal": 16000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Private Balcony","Mini Bar","90 degree view"]
+    },
+    {
+      "id": 68,
+      "name": "CLBS 5002",
+      "description": "",
+      "imagePath": "/Images/club suite 5002/928246.jpg",
+      "gallery": [
+        "/Images/club suite 5002/928246.jpg",
+        "/Images/club suite 5002/928245.jpg",
+        "/Images/club suite 5002/928254.jpg"
+      ],
+      "category": "Club Suite",
+      "b2b_offSeason": 10000,
+      "rack_rate_offseason": 15000,
+      "b2b_seasonal": 11500,
+      "rack_rate_seasonal": 16000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Private Balcony","Mini Bar","90 degree view"]
+    },
+    {
+      "id": 69,
+      "name": "CLBS 5003",
+      "description": "",
+      "imagePath": "/Images/club suite 5003/8764556.jpg",
+      "gallery": [
+        "/Images/club suite 5003/8764556.jpg",
+        "/Images/club suite 5003/8764542.jpg",
+        "/Images/club suite 5003/87645345.jpg"
+      ],
+      "category": "Club Suite",
+      "b2b_offSeason": 10000,
+      "rack_rate_offseason": 15000,
+      "b2b_seasonal": 11500,
+      "rack_rate_seasonal": 16000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Private Balcony","Mini Bar","90 degree view"]
+    },
+    {
+      "id": 70,
+      "name": "FAMILY CLBS 6001",
+      "description": "",
+      "imagePath": "/Images/interconnected club 6001/734735326.jpg",
+      "gallery": [
+        "/Images/interconnected club 6001/734735326.jpg",
+        "/Images/interconnected club 6001/73473534.jpg",
+        "/Images/interconnected club 6001/73473546.jpg",
+        "/Images/interconnected club 6001/73473565.jpg",
+        "/Images/interconnected club 6001/7347356356.jpg"
+      ],
+      "category": "Family Club Suit",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed","1 Double bed","Interconnected 2 Bedroom","2 Bathroom","Private Balcony","Mini Bar","360-degree view"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "FAMILY CLBS 6002",
+      "description": "",
+      "imagePath": "/Images/interconnected club 6002/21412514.jpg",
+      "gallery": [
+        "/Images/interconnected club 6002/21412514.jpg",
+        "/Images/interconnected club 6001/2141253414.jpg",
+        "/Images/interconnected club 6001/21412533.jpg",
+        "/Images/interconnected club 6001/214125914.jpg",
+        "/Images/interconnected club 6001/214125314.jpg"
+      ],
+      "category": "Family Club Suit",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed","1 Double bed","Interconnected 2 Bedroom","2 Bathroom","Private Balcony","Mini Bar"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "FAMILY CLBS 6003",
+      "description": "",
+      "imagePath": "/Images/interconnected club 6003/78365456.jpg",
+      "gallery": [
+        "/Images/interconnected club 6003/78365456.jpg",
+        "/Images/interconnected club 6003/78365872.jpg",
+        "/Images/interconnected club 6003/7836587.jpg",
+        "/Images/interconnected club 6003/78365355.jpg",
+        "/Images/interconnected club 6003/78365872.jpg"
+      ],
+      "category": "Family Club Suit",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed","1 Double bed","Interconnected 2 Bedroom","2 Bathroom","Private Balcony","Mini Bar"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "FAMILY CLBS 6004",
+      "description": "",
+      "imagePath": "/Images/interconnected club 6004/564654579.jpg",
+      "gallery": [
+        "/Images/interconnected club 6004/564654579.jpg",
+        "/Images/interconnected club 6004/5646548.jpg",
+        "/Images/interconnected club 6004/5646548.jpg",
+        "/Images/interconnected club 6004/5646465.jpg",
+        "/Images/interconnected club 6004/5646547.jpg"
+      ],
+      "category": "Family Club Suit",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 17000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 19000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 King-size bed","1 Double bed","Interconnected 2 Bedroom","2 Bathroom","Private Balcony","Mini Bar"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "FAMILY CLBS 104",
+      "description": "",
+      "imagePath": "/Images/premium quadra 104/2.jpg",
+      "gallery": [
+        "/Images/premium quadra 104/2.jpg",
+        "/Images/premium quadra 104/3.jpg",
+        "/Images/premium quadra 104/046A9415.jpg",
+        "/Images/premium quadra 104/1.jpg"
+      ],
+      "category": "Family Club Suit",
+      "rack_rate_offseason": 9000,
+      "b2b_offSeason": 8000,
+      "rack_rate_seasonal": "",
+      "b2b_seasonal": "",
+      "balcony": "No",
+      "ac": "Yes",
+      "amenities": ["2 Round bed","1 Bathroom","Private Balcony","Mini Bar"]
+    },
+
+    {
+      "id": 75,
+      "name": "A5",
+      "description": "",
+      "imagePath": "/Images/a6/253666.jpg",
+      "gallery": [
+        "/Images/a6/253666.jpg",
+        "/Images/a6/anex-view.jpg",
+        "/Images/a6/25366642.jpg"
+      ],
+
+      "category": "Couple Snow Valley Series",
+      "rack_rate_offseason": 5000,
+      "b2b_offSeason": 4000,
+      "rack_rate_seasonal": 6000,
+      "b2b_seasonal": 4500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": [
+        "Interconnected 2 rooms",
+        "Queen-size bed",
+        "Common Balcony",
+        "1 Bathroom"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "HMS 1001",
+      "description": "",
+      "imagePath": "/Images/honeymoon suite 1001/56743353.jpg",
+      "gallery": [
+        "/Images/honeymoon suite 1001/56743353.jpg",
+        "/Images/honeymoon suite 1001/567433523.jpg",
+        "/Images/honeymoon suite 1001/56743334.jpg",
+        "/Images/honeymoon suite 1001/56743465.jpg"
+      ],
+      "category": "Honeymoon suite",
+      "b2b_offSeason": 12000,
+      "rack_rate_offseason": 16000,
+      "b2b_seasonal": 13500,
+      "rack_rate_seasonal": 18000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "1 Round bed","Private Balcony","1 Bathroom","Jacuzzi","Mini Bar"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "HMS 3001",
+      "description": "",
+      "imagePath": "/Images/honeymoon suite 3001/98695646.jpg",
+      "gallery": [
+        "/Images/honeymoon suite 3001/98695646.jpg",
+        "/Images/honeymoon suite 3001/9869564546.jpg",
+        "/Images/honeymoon suite 3001/9869568756.jpg"
+      ],
+      "category": "Honeymoon suite",
+      "b2b_offSeason": 12000,
+      "rack_rate_offseason": 16000,
+      "b2b_seasonal": 13500,
+      "rack_rate_seasonal": 18000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [ "1 Round bed","Private Balcony","1 Bathroom","Mini Bar"]
+    },
+    {
+      "id": 78,
+      "name": "HMS 2001",
+      "description": "",
+      "imagePath": "/Images/2001/IMG_1213.JPG",
+      "gallery": [
+        "/Images/2001/IMG_1213.JPG",
+        "/Images/2001/IMG_1215.JPG",
+        "/Images/2001/IMG_1217.JPG",
+        "/Images/2001/IMG_1218.JPG",
+        "/Images/2001/IMG_1219.JPG",
+        "/Images/2001/IMG_1220.JPG",
+        "/Images/2001/IMG_1221.JPG",
+        "/Images/2001/IMG_1222.JPG",
+        "/Images/2001/IMG_1223.JPG",
+        "/Images/2001/IMG_1224.JPG",
+        "/Images/2001/IMG_1225.JPG",
+        "/Images/2001/IMG_1226.JPG",
+        "/Images/2001/IMG_1277.JPG",
+        "/Images/2001/IMG_1278.JPG"
+      ],
+      "category": "Honeymoon suite",
+      "b2b_offSeason": 12000,
+      "rack_rate_offseason": 16000,
+      "b2b_seasonal": 13500,
+      "rack_rate_seasonal": 18000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","1 Double bed","1 Bathroom","Mini Bar"," Glass view"]
+    },
+    {
+      "id": 79,
+      "name": "P OCT 1002",
+      "description": "",
+      "imagePath": "/Images/premium octave interconnected 1002/6515625.jpg",
+      "gallery": [
+        "/Images/premium octave interconnected 1002/6515625.jpg",
+        "/Images/premium octave interconnected 1002/65156385.jpg",
+        "/Images/premium octave interconnected 1002/65156453.jpg",
+        "/Images/premium octave interconnected 1002/6515645354.jpg",
+        "/Images/premium octave interconnected 1002/6515623.jpg",
+        "/Images/premium octave interconnected 1002/6515624.jpg"
+      ],
+      "category": "Premium Octave Family Room",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 19000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 20000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 King Bed","1 Double bed","Interconnected 2 Bedroom","Private Balcony","Mini Bar","2 Bathroom"]
+    },
+    {
+      "id": 80,
+      "name": "P OCT 2002",
+      "description": "",
+      "imagePath": "/premium octave interconnected 2022/82198654.jpg",
+      "gallery": [
+        "/Images/premium octave interconnected 2022/82198654.jpg",
+        "/Images/premium octave interconnected 2022/826456587.jpg",
+        "/Images/premium octave interconnected 2022/8219865876.jpg",
+        "/Images/premium octave interconnected 2022/821986575.jpg"
+      ],
+      "category": "Premium Octave Family Room",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 19000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 20000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 King Bed","1 Double bed","Interconnected 2 Bedroom","Private Balcony","Mini Bar","2 Bathroom"]
+    },
+    {
+      "id": 81,
+      "name": "SPV 108",
+      "description": "",
+      "imagePath": "/Images/single pool villa/87576456.jpg",
+      "gallery": [
+        "/Images/single pool villa/87576456.jpg",
+        "/Images/single pool villa/85675485.jpg",
+        "/Images/single pool villa/87576648.jpg",
+        "/Images/single pool villa/875764564.jpg",
+        "/Images/single pool villa/875764565.jpg",
+        "/Images/single pool villa/875764569.jpg"
+      ],
+      "category": "Single Pool Villa",
+      "b2b_offSeason": 16000,
+      "rack_rate_offseason": 19000,
+      "b2b_seasonal": 17500,
+      "rack_rate_seasonal": 22000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","Private Balcony","1 Bathroom","Private Pool","Mini Bar"]
+    },
+    {
+      "id": 82,
+      "name": "360 JACU S 1k",
+      "description": "",
+      "imagePath": "/Images/jaccuzi suite 360 1000/76743745345.jpg",
+      "gallery": [
+        "/Images/jaccuzi suite 360 1000/76743745345.jpg",
+        "/Images/jaccuzi suite 360 1000/767437453.jpg",
+        "/Images/jaccuzi suite 360 1000/767437453876.jpg",
+        "/Images/jaccuzi suite 360 1000/76743745334.jpg"
+      ],
+      "category": "Jaccuzi Suite",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 20000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 22000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","2 Private Balcony","1 Bathroom","Jacuzzi","Mini Bar"]
+    },
+    {
+      "id": 83,
+      "name": "360 JACU S 2k",
+      "description": "",
+      "imagePath": "/Images/jaccuzzi suite 360 2000/64747848.jpg",
+      "gallery": [
+        "/Images/jaccuzzi suite 360 2000/64747848.jpg",
+        "/Images/jaccuzzi suite 360 2000/6784784.jpg",
+        "/Images/jaccuzzi suite 360 2000/65569876.jpg",
+        "/Images/jaccuzzi suite 360 2000/6756385.jpg"
+      ],
+      "category": "Jaccuzi Suite",
+      "b2b_offSeason": 14000,
+      "rack_rate_offseason": 20000,
+      "b2b_seasonal": 15500,
+      "rack_rate_seasonal": 22000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","2 Private Balcony","1 Bathroom","Jacuzzi","Mini Bar"]
+    },
+    {
+      "id": 84,
+      "name": "CJACU 4004",
+      "description": "",
+      "imagePath": "/Images/club suite 4004/7676574.jpg",
+      "gallery": [
+        "/Images/club suite 4004/7676574.jpg",
+        "/Images/club suite 4004/7677474.jpg",
+        "/Images/club suite 4004/767657644.jpg"
+      ],
+      "category": "Jacuzzi Club suite",
+      "b2b_offSeason": 11500,
+      "rack_rate_offseason": 16000,
+      "b2b_seasonal": 13000,
+      "rack_rate_seasonal": 18000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Jacuzzi","Mini Bar","Private Balcony"]
+    },
+    {
+      "id": 85,
+      "name": "CJACU 5004",
+      "description": "",
+      "imagePath": "/Images/club suite 5004/36362345.jpg",
+      "gallery": [
+        "/Images/club suite 5004/36362345.jpg",
+        "/Images/club suite 5004/36365234.jpg",
+        "/Images/club suite 5004/363652658.jpg",
+        "/Images/club suite 5004/3636547.jpg"
+      ],
+      "category": "Jacuzzi Club suite",
+      "b2b_offSeason": 11500,
+      "rack_rate_offseason": 16000,
+      "b2b_seasonal": 13000,
+      "rack_rate_seasonal": 18000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","1 Bathroom","Jacuzzi","Mini Bar","Private Balcony"]
+    },
+    {
+      "id": 86,
+      "name": "M PRSET 99",
+      "description": "",
+      "imagePath": "/Images/99/875648732.jpg",
+      "gallery": [
+        "/Images/99/875648732.jpg",
+        "/Images/99/875648712.jpg",
+        "/Images/99/875645464.jpg",
+        "/Images/99/875635345.jpg",
+        "/Images/99/875456455.jpg",
+        "/Images/99/87564876.jpg",
+        "/Images/99/87562344.jpg"
+      ],
+      "category": "Mini Presidential Suite",
+      "b2b_offSeason": 21000,
+      "rack_rate_offseason": 25000,
+      "b2b_seasonal": 22500,
+      "rack_rate_seasonal": 27000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 Bedroom","1 King-size bed","1 Round bed","Private Balcony","Mini Bar","2 Bathroom","Saftey Deposit Box"]
+    },
+    {
+      "id": 87,
+      "name": " PREST 007",
+      "description": "",
+      "imagePath": "/Images/007/149485567.jpg",
+      "gallery": [
+        "/Images/007/149485567.jpg",
+        "/Images/007/149485613.jpg",
+        "/Images/007/149485623.jpg",
+        "/Images/007/149485967.jpg",
+        "/Images/007/149485235.jpg",
+        "/Images/007/14948545.jpg",
+        "/Images/007/14948523.jpg",
+        "/Images/007/14948346.jpg"
+      ],
+      "category": "Presidential Suite",
+      "b2b_offSeason": 23000,
+      "rack_rate_offseason": 28000,
+      "b2b_seasonal": 25000,
+      "rack_rate_seasonal": 30000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 King Bed", "2 Bathroom", "Mini Bar", "Private Balcony","2 Private Entrance", "AC","Interconnected 2 Bedroom"]
+    },
+    {
+      "id": 88,
+      "name": "POOLV 100",
+      "description": "",
+      "imagePath": "/Images/pool villa/3673253.jpg",
+      "gallery": [
+        "/Images/pool villa/3673253.jpg",
+        "/Images/pool villa/3673487.jpg",
+        "/Images/pool villa/3673776.jpg",
+        "/Images/pool villa/3673798.jpg",
+        "/Images/pool villa/3673875.jpg",
+        "/Images/pool villa/367536454.jpg",
+        "/Images/pool villa/pool villa.jpg",
+        "/Images/pool villa/367367.jpg",
+        "/Images/pool villa/367377.jpg"
+      ],
+      "category": "Double Bedroom Pool Villa",
+      "b2b_offSeason": 24000,
+      "rack_rate_offseason": 30000,
+      "b2b_seasonal": 25500,
+      "rack_rate_seasonal": 32000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Interconnected 2 Bedroom ","2 King Bed","3 Bathroom","Private Pool","Private Balcony"]
+    },
+    {
+      "id": 89,
+      "name": "MINI PV 103",
+      "description": "",
+      "imagePath": "/Images/mini pool villa 103/9866567.jpg",
+      "gallery": [
+        "/Images/mini pool villa 103/9866567.jpg",
+        "/Images/mini pool villa 103/986657.jpg",
+        "/Images/mini pool villa 103/98798.jpg",
+        "/Images/mini pool villa 103/9866589.jpg",
+        "/Images/mini pool villa 103/98663738.jpg",
+        "/Images/mini pool villa 103/98665756.jpg"
+      ],
+      "category": "Mini Pool Villa",
+      "b2b_offSeason": 21000,
+      "rack_rate_offseason": 25000,
+      "b2b_seasonal": 22500,
+      "rack_rate_seasonal": 27000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Interconnected 2 Bedroom ","2 King Bed","2 Bathroom","Private Balcony","Mini Bar","Private Pool"]
+    },
+    {
+      "id": 90,
+      "name": "JUNG 9000",
+      "description": "",
+      "imagePath": "/Images/jungle 9000/3498165.jpg",
+      "gallery": [
+        "/Images/jungle 9000/3498165.jpg",
+        "/Images/jungle 9000/3498163.jpg",
+        "/Images/jungle 9000/3498162.jpg"
+      ],
+      "category": "Jungle Room",
+      "b2b_offSeason": 9000,
+      "rack_rate_offseason": 13000,
+      "b2b_seasonal": 10000,
+      "rack_rate_seasonal": 15000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","Private Balcony","Mini Bar","Forest view","Non-AC"]
+    },
+    {
+      "id": 91,
+      "name": "JUNG 9001",
+      "description": "",
+      "imagePath": "/Images/jungle 9001/2698462.jpg",
+      "gallery": [
+        "/Images/jungle 9001/2698462.jpg",
+        "/Images/jungle 9001/2698465.jpg",
+        "/Images/jungle 9001/2698466.jpg",
+        "/Images/jungle 9001/26984625.jpg"
+      ],
+      "category": "Jungle Room",
+      "b2b_offSeason": 9000,
+      "rack_rate_offseason": 13000,
+      "b2b_seasonal": 10000,
+      "rack_rate_seasonal": 15000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 King-size bed","Private Balcony","Mini Bar","Forest view","Non-AC"]
+    },
+    {
+      "id": 92,
+      "name": "CAVE 9002",
+      "description": "",
+      "imagePath": "/Images/cave 9002/1.jpg",
+      "gallery": [
+        "/Images/cave 9002/1.jpg",
+        "/Images/cave 9002/1697394.jpg",
+        "/Images/cave 9002/1697434.jpg",
+        "/Images/cave 9002/16974274.jpg",
+        "/Images/cave 9002/16974293.jpg",
+        "/Images/cave 9002/16974639.jpg",
+        "/Images/cave 9002/16974646.jpg",
+        "/Images/cave 9002/Untitled2.jpg",
+        "/Images/cave 9002/Untitled3.jpg",
+        "/Images/cave 9002/Untitled4.jpg",
+        "/Images/cave 9002/Untitled5.jpg"
+      ],
+      "category": "Cave ROOM",
+      "b2b_offSeason": 28000,
+      "rack_rate_offseason": 35000,
+      "b2b_seasonal": 29500,
+      "rack_rate_seasonal": 35000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","Private Balcony","Mini Bar","Jacuzzi","Forest view"]
+    },
+    {
+      "id": 93,
+      "name": "CAVE 9003",
+      "description": "",
+      "imagePath": "/Images/cave 9003/1697462.jpg",
+      "gallery": [
+        "/Images/cave 9003/1697462.jpg",
+        "/Images/cave 9003/1697463.jpg",
+        "/Images/cave 9003/1697468.jpg",
+        "/Images/cave 9003/16974622.jpg",
+        "/Images/cave 9003/16974639.jpg",
+        "/Images/cave 9003/16974646.jpg",
+        "/Images/cave 9003/1697394.jpg",
+        "/Images/cave 9003/1697434.jpg"
+      ],
+      "category": "Cave ROOM",
+      "b2b_offSeason": 28000,
+      "rack_rate_offseason": 35000,
+      "b2b_seasonal": 29500,
+      "rack_rate_seasonal": 35000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Round bed","Mini Bar","Jacuzzi","Forest view"]
+    },
+    {
+      "id": 94,
+      "name": "CAVE 9004",
+      "description": "",
+      "category": "Cave ROOM",
+      "b2b_offSeason": 28000,
+      "rack_rate_offseason": 35000,
+      "b2b_seasonal": 29500,
+      "rack_rate_seasonal": 35000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["1 Bedroom", "jacuzzi", "Balcony", "AC"]
+    }
+  ]
+}
