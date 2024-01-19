@@ -10,7 +10,7 @@ const Rooms = ({ rooms }) => {
   // Filter rooms based on the selected category
   const filteredRooms = category
     ? rooms.filter(
-        (room) => room.category.toLowerCase() === category.toLowerCase()
+        (room) => room.category === category
       )
     : rooms;
 
