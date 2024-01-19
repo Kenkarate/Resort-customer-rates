@@ -33,8 +33,8 @@ const Rooms = ({ rooms }) => {
                   <div class="font-bold text-xl mb-2">
                     <h3>{room.name}</h3>
                   </div>
-                  <p class="text-gray-700 text-base">
-                    {room.description || "No description available."}
+                  <p class="text-black  font-semibold">
+                    Price :  {room.rack_rate || "No description available."}
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2">

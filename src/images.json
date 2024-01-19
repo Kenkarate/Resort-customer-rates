@@ -712,12 +712,11 @@
       "id": 31,
       "name": "CLA DLX 900",
       "description": "",
-      "imagePath": "/Images/classic deluxe 900/35379694.jpg",
+      "imagePath": "/Images/classic delux 900/675732646.jpg",
       "gallery": [
-        "/Images/classic deluxe 900/35379694.jpg",
-        "/Images/classic deluxe 900/3537694.jpg",
-        "/Images/classic deluxe 900/3537835.jpg",
-        "/Images/classic deluxe 900/3537624.jpg"
+        "/Images/classic delux 900/675732646.jpg",
+        "/Images/classic delux 900/675735426.jpg",
+        "/Images/classic delux 900/675735436.jpg"
       ],
       "rack_rate":6500,
       "category": "Classic series",
@@ -1077,7 +1076,7 @@
         "/Images/superior quadra 114/5333345143.jpg",
         "/Images/superior quadra 114/53333451436.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":11000,
       "category": "Family twin bed superior",
       "b2b_offSeason": 8500,
       "rack_rate_offseason": 11000,
@@ -1103,7 +1102,7 @@
         "/Images/superior quadra 115/9585448.jpg",
         "/Images/superior quadra 115/95854338.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":11000,
       "category": "Family twin bed superior",
       "b2b_offSeason": 8500,
       "rack_rate_offseason": 11000,
@@ -1149,11 +1148,12 @@
       "id": 48,
       "name": "SUPR 1006",
       "description": "",
-      "imagePath": "/Images/superior 1006/675735426.jpg",
+      "imagePath": "/Images/superior-1006/35379694.jpg",
       "gallery": [
-        "/Images/superior 1006/675735426.jpg",
-        "/Images/superior 1006/675735436.jpg",
-        "/Images/superior 1006/675732646.jpg"
+        "/Images/superior-1006/35379694.jpg",
+        "/Images/superior-1006/3537624.jpg",
+        "/Images/superior-1006/3537694.jpg",
+        "/Images/superior-1006/3537835.jpg"
       ],
       "rack_rate":8000,
       "category": "superior",
@@ -1503,7 +1503,7 @@
         "/Images/club suite 4001/754864.jpg",
         "/Images/club suite 4001/7548645.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Corner Club Suite",
       "b2b_offSeason": 13000,
       "rack_rate_offseason": 17000,
@@ -1524,7 +1524,7 @@
         "/Images/club suite 5001/8568536.jpg",
         "/Images/club suite 5001/8568538.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Corner Club Suite",
       "b2b_offSeason": 13000,
       "rack_rate_offseason": 17000,
@@ -1545,7 +1545,7 @@
         "/Images/club suite 4002/856865.jpg",
         "/Images/club suite 4002/856846.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":15000,
       "category": "Club Suite",
       "b2b_offSeason": 10000,
       "rack_rate_offseason": 15000,
@@ -1566,7 +1566,7 @@
         "/Images/club suite 4003/97698634.jpg",
         "/Images/club suite 4003/97698674.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":15000,
       "category": "Club Suite",
       "b2b_offSeason": 10000,
       "rack_rate_offseason": 15000,
@@ -1586,7 +1586,7 @@
         "/Images/club suite 5002/928245.jpg",
         "/Images/club suite 5002/928254.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":15000,
       "category": "Club Suite",
       "b2b_offSeason": 10000,
       "rack_rate_offseason": 15000,
@@ -1606,7 +1606,7 @@
         "/Images/club suite 5003/8764542.jpg",
         "/Images/club suite 5003/87645345.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":15000,
       "category": "Club Suite",
       "b2b_offSeason": 10000,
       "rack_rate_offseason": 15000,
@@ -1628,7 +1628,7 @@
         "/Images/interconnected club 6001/73473565.jpg",
         "/Images/interconnected club 6001/7347356356.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Family Club Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 17000,
@@ -1652,7 +1652,7 @@
         "/Images/interconnected club 6001/214125914.jpg",
         "/Images/interconnected club 6001/214125314.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Family Club Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 17000,
@@ -1676,7 +1676,7 @@
         "/Images/interconnected club 6003/78365355.jpg",
         "/Images/interconnected club 6003/78365872.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Family Club Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 17000,
@@ -1700,7 +1700,7 @@
         "/Images/interconnected club 6004/5646465.jpg",
         "/Images/interconnected club 6004/5646547.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":17000,
       "category": "Family Club Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 17000,
@@ -1723,8 +1723,8 @@
         "/Images/premium quadra 104/046A9415.jpg",
         "/Images/premium quadra 104/1.jpg"
       ],
-      "rack_rate":10,
-      "category": "Family Club Suite",
+      "rack_rate":17000,
+      "category": "Premium Quadra Family Room",
       "rack_rate_offseason": 9000,
       "b2b_offSeason": 8000,
       "rack_rate_seasonal": "",
@@ -1738,15 +1738,16 @@
       "id": 75,
       "name": "A5",
       "description": "",
-      "imagePath": "/Images/a6/253666.jpg",
+      "imagePath": "/Images/a5/969763456.jpg",
       "gallery": [
-        "/Images/a6/253666.jpg",
-        "/Images/a6/anex-view.jpg",
-        "/Images/a6/25366642.jpg"
+        "/Images/a5/969763456.jpg",
+        "/Images/a5/969769345.jpg",
+        "/Images/a5/969769534.jpg",
+        "/Images/a5/969769545.jpg",
+        "/Images/a5/anex-view.jpg"
       ],
-      "rack_rate":10,
-
-      "cate4500ry": "Couple Snow Valley Series",
+      "rack_rate":4500,
+      "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
       "rack_rate_seasonal": 6000,
@@ -1912,7 +1913,7 @@
         "/Images/jaccuzi suite 360 1000/767437453876.jpg",
         "/Images/jaccuzi suite 360 1000/76743745334.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":19000,
       "category": "Jacuzzi Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 20000,
@@ -1933,7 +1934,7 @@
         "/Images/jaccuzzi suite 360 2000/65569876.jpg",
         "/Images/jaccuzzi suite 360 2000/6756385.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":19000,
       "category": "Jacuzzi Suite",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 20000,
@@ -2072,7 +2073,7 @@
         "/Images/mini pool villa 103/98663738.jpg",
         "/Images/mini pool villa 103/98665756.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":25000,
       "category": "Mini Pool Villa",
       "b2b_offSeason": 21000,
       "rack_rate_offseason": 25000,
