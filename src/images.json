@@ -10,7 +10,7 @@
         "/Images/a1/anex-view.jpg",
         "/Images/a1/262654256.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":4500,
       "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
@@ -30,7 +30,7 @@
         "/Images/a2/anex-view.jpg",
         "/Images/a2/7836835.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":4500,
       "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
@@ -50,7 +50,7 @@
         "/Images/a3/anex-view.jpg",
         "/Images/a3/6854678.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":4500,
       "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
@@ -71,7 +71,7 @@
         "/Images/a4/7856789.jpg",
         "/Images/a4/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":4500,
       "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
@@ -93,7 +93,6 @@
         "/Images/tree 123/110.jpg"
       ],
       "rack_rate":10,
-
       "category": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
@@ -108,7 +107,6 @@
         "1 Bathroom"
       ]
     },
-
     {
       "id": 6,
       "name": "A6",
@@ -121,7 +119,7 @@
         "/Images/a5/969769545.jpg",
         "/Images/a5/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -147,7 +145,7 @@
         "/Images/a7/anex-view.jpg",
         "/Images/a7/983573.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -172,7 +170,7 @@
         "/Images/a8/9697634.jpg",
         "/Images/a8/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -192,7 +190,7 @@
         "/Images/b1/7456474.jpg",
         "/Images/b1/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -213,7 +211,7 @@
         "/Images/b2/15435234.jpg",
         "/Images/b2/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -234,7 +232,7 @@
         "/Images/b3/84565635.jpg",
         "/Images/b3/anex-view.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -250,7 +248,7 @@
       "description": "",
       "imagePath": "/Images/annex 1/2456254.jpg",
       "gallery": ["/Images/annex 1/2456254.jpg", "/Images/annex 1/2456256.jpg"],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -271,7 +269,7 @@
       "description": "",
       "imagePath": "/Images/annex 2/23645787.jpg",
       "gallery": ["/Images/annex 2/23645787.jpg", "/Images/annex 2/236457.jpg"],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -295,7 +293,7 @@
         "/Images/annex 3/14234534.jpg",
         "/Images/annex 3/14234535.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -319,7 +317,7 @@
         "/Images/annex 4/24235245.jpg",
         "/Images/annex 4/24235223.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -348,7 +346,7 @@
         "/Images/annex 5/85485345423.jpg",
         "/Images/annex 5/85485858.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -374,7 +372,7 @@
         "/Images/mini classic 107/046A9840.jpg",
         "/Images/mini classic 107/046A9833.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -400,7 +398,7 @@
         "/Images/mini classic 105/046A9840.jpg",
         "/Images/mini classic 105/53527.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -425,7 +423,7 @@
         "/Images/mini classic 999/9673972.jpg",
         "/Images/mini classic 999/9673979.jpg.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -444,7 +442,7 @@
         "/Images/mini classic 1999/8865756.jpg",
         "/Images/mini classic 1999/886573.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -463,7 +461,7 @@
         "/Images/classic deluxe  109/48448.jpg",
         "/Images/classic deluxe  109/48449.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -489,7 +487,7 @@
         "/Images/classic deluxe   110/48450.jpg",
         "/Images/classic deluxe   110/48451.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -515,7 +513,7 @@
         "/Images/CLASSIC 1007/55748545.jpg",
         "/Images/CLASSIC 1007/557485345.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -541,7 +539,7 @@
         "/Images/classic 1008/854865346.jpg",
         "/Images/classic 1008/854865456.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -567,7 +565,7 @@
         "/Images/classic 1009/anex-view.jpg",
         "/Images/classic 1009/262654256.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -596,7 +594,7 @@
         "/Images/cla 1010/34676523.jpg",
         "/Images/classic 1010/198197.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -622,7 +620,7 @@
         "/Images/classic 2007/9491558234.jpg",
         "/Images/classic 2007/94915585.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -648,7 +646,7 @@
         "/Images/classic 2008/23245437.jpg",
         "/Images/classic 2008/23245439.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -674,7 +672,7 @@
         "/Images/classic 2009/8194733.jpg",
         "/Images/classic 2009/81947325.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -700,7 +698,7 @@
         "/Images/classic 2010/924893.jpg",
         "/Images/classic 2010/92489353.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -721,7 +719,7 @@
         "/Images/classic deluxe 900/3537835.jpg",
         "/Images/classic deluxe 900/3537624.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -746,7 +744,7 @@
         "/Images/classic deluxe 1990/9673974.jpg",
         "/Images/classic deluxe 1990/9673978.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -771,7 +769,7 @@
         "/Images/deluxe 116/1847895.jpg",
         "/Images/deluxe 116/184795159.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":5500,
       "category": "Deluxe Non AC",
       "b2b_offSeason": 4500,
       "rack_rate_offseason": 6000,
@@ -796,7 +794,7 @@
         "/Images/deluxe 117/1654586.jpg",
         "/Images/deluxe 117/16543586.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":5500,
       "category": "Deluxe Non AC",
       "b2b_offSeason": 4500,
       "rack_rate_offseason": 6000,
@@ -822,7 +820,7 @@
         "/Images/deluxe 118/453253474.jpg",
         "/Images/deluxe 118/45332532.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":5500,
       "category": "Deluxe Non AC",
       "b2b_offSeason": 4500,
       "rack_rate_offseason": 6000,
@@ -847,7 +845,7 @@
         "/Images/deluxe 119/7657479.jpg",
         "/Images/deluxe 119/76574723.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":5500,
       "category": "Deluxe Non AC",
       "b2b_offSeason": 4500,
       "rack_rate_offseason": 6000,
@@ -873,7 +871,7 @@
         "/Images/120/19514234.jpg",
         "/Images/120/19514345.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -898,7 +896,7 @@
         "/Images/121/491545.jpg",
         "/Images/121/491516.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -923,7 +921,7 @@
         "/Images/122/1416552.jpg",
         "/Images/122/3.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":7200,
       "category": "Family Snow Valley Series",
       "b2b_offSeason": 6500,
       "rack_rate_offseason": 8000,
@@ -948,7 +946,7 @@
         "/Images/classic 7001/5676574.jpg",
         "/Images/classic 7001/56765742.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -974,7 +972,7 @@
         "/Images/classic 7002/27538675.jpg",
         "/Images/classic 7002/27538653.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -1000,7 +998,7 @@
         "/Images/classic 7003/378387398.jpg",
         "/Images/classic 7003/37838737.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -1025,7 +1023,7 @@
         "/Images/claasic 7004/4574747.jpg",
         "/Images/claasic 7004/4574767.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -1052,7 +1050,7 @@
         "/Images/classic 7005/564262.jpg",
         "/Images/classic 7005/419841651.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":6500,
       "category": "Classic series",
       "b2b_offSeason": 4750,
       "rack_rate_offseason": 6500,
@@ -1131,7 +1129,7 @@
         "/Images/superior 1004/68418641.jpg",
         "/Images/superior 1004/818618651.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":8000,
       "category": "superior",
       "rack_rate_offseason": 9000,
       "b2b_offSeason": 6000,
@@ -1157,7 +1155,7 @@
         "/Images/superior 1006/675735436.jpg",
         "/Images/superior 1006/675732646.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":8000,
       "category": "superior",
       "rack_rate_offseason": 9000,
       "b2b_offSeason": 6000,
@@ -1182,7 +1180,7 @@
         "/Images/superior 2004/8536446.jpg",
         "/Images/superior 2004/8563454.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":8000,
       "category": "superior",
       "rack_rate_offseason": 9000,
       "b2b_offSeason": 6000,
@@ -1209,7 +1207,7 @@
         "/Images/superior 2006/8756686.jpg",
         "/Images/superior 2006/8756643.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":8000,
       "category": "superior",
       "rack_rate_offseason": 9000,
       "b2b_offSeason": 6000,
@@ -1237,7 +1235,7 @@
         "/Images/premium 1003/5151315.jpg",
         "/Images/premium 1003/3535332.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1265,7 +1263,7 @@
         "/Images/premium 1005/846519596.jpg",
         "/Images/premium 1005/84651952.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1293,7 +1291,7 @@
         "/Images/premium 2003/76876294.jpg",
         "/Images/premium 2003/7687276.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1320,7 +1318,7 @@
         "/Images/premium 2005/34677524.jpg",
         "/Images/premium 2005/34677234.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1348,7 +1346,7 @@
         "/Images/premium 3003/3435344225.jpg",
         "/Images/premium 3003/3453425.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1377,7 +1375,7 @@
         "/Images/premium 112/KMOMOK.jpg",
         "/Images/premium 112/JFJYUKYK.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 7000,
@@ -1450,7 +1448,7 @@
         "/Images/premium club suite 102/867856.jpg",
         "/Images/premium club suite 102/856853.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":9500,
       "category": "Premium",
       "rack_rate_offseason": 11000,
       "b2b_offSeason": 8000,
@@ -1748,7 +1746,7 @@
       ],
       "rack_rate":10,
 
-      "category": "Couple Snow Valley Series",
+      "cate4500ry": "Couple Snow Valley Series",
       "rack_rate_offseason": 5000,
       "b2b_offSeason": 4000,
       "rack_rate_seasonal": 6000,
@@ -1773,7 +1771,7 @@
         "/Images/honeymoon suite 1001/56743334.jpg",
         "/Images/honeymoon suite 1001/56743465.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":16000,
       "category": "Honeymoon suite",
       "b2b_offSeason": 12000,
       "rack_rate_offseason": 16000,
@@ -1795,7 +1793,7 @@
         "/Images/honeymoon suite 3001/9869564546.jpg",
         "/Images/honeymoon suite 3001/9869568756.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":16000,
       "category": "Honeymoon suite",
       "b2b_offSeason": 12000,
       "rack_rate_offseason": 16000,
@@ -1826,7 +1824,7 @@
         "/Images/2001/IMG_1277.JPG",
         "/Images/2001/IMG_1278.JPG"
       ],
-      "rack_rate":10,
+      "rack_rate":16000,
       "category": "Honeymoon suite",
       "b2b_offSeason": 12000,
       "rack_rate_offseason": 16000,
@@ -1849,7 +1847,7 @@
         "/Images/premium octave interconnected 1002/6515623.jpg",
         "/Images/premium octave interconnected 1002/6515624.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":18000,
       "category": "Premium Octave Family Room",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 19000,
@@ -1870,7 +1868,7 @@
         "/Images/premium octave interconnected 2022/8219865876.jpg",
         "/Images/premium octave interconnected 2022/821986575.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":18000,
       "category": "Premium Octave Family Room",
       "b2b_offSeason": 14000,
       "rack_rate_offseason": 19000,
@@ -1893,7 +1891,7 @@
         "/Images/single pool villa/875764565.jpg",
         "/Images/single pool villa/875764569.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":19000,
       "category": "Single Pool Villa",
       "b2b_offSeason": 16000,
       "rack_rate_offseason": 19000,
@@ -1955,7 +1953,7 @@
         "/Images/club suite 4004/7677474.jpg",
         "/Images/club suite 4004/767657644.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":16000,
       "category": "Jacuzzi Club suite",
       "b2b_offSeason": 11500,
       "rack_rate_offseason": 16000,
@@ -1976,7 +1974,7 @@
         "/Images/club suite 5004/363652658.jpg",
         "/Images/club suite 5004/3636547.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":16000,
       "category": "Jacuzzi Club suite",
       "b2b_offSeason": 11500,
       "rack_rate_offseason": 16000,
@@ -2000,7 +1998,7 @@
         "/Images/99/87564876.jpg",
         "/Images/99/87562344.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":25000,
       "category": "Mini Presidential Suite",
       "b2b_offSeason": 21000,
       "rack_rate_offseason": 25000,
@@ -2025,7 +2023,7 @@
         "/Images/007/14948523.jpg",
         "/Images/007/14948346.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":28000,
       "category": "Presidential Suite",
       "b2b_offSeason": 23000,
       "rack_rate_offseason": 28000,
@@ -2051,7 +2049,7 @@
         "/Images/pool villa/367367.jpg",
         "/Images/pool villa/367377.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":29000,
       "category": "Double Bedroom Pool Villa",
       "b2b_offSeason": 24000,
       "rack_rate_offseason": 30000,
@@ -2094,7 +2092,7 @@
         "/Images/jungle 9000/3498163.jpg",
         "/Images/jungle 9000/3498162.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":13000,
       "category": "Jungle Room",
       "b2b_offSeason": 9000,
       "rack_rate_offseason": 13000,
@@ -2115,7 +2113,7 @@
         "/Images/jungle 9001/2698466.jpg",
         "/Images/jungle 9001/26984625.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":13000,
       "category": "Jungle Room",
       "b2b_offSeason": 9000,
       "rack_rate_offseason": 13000,
@@ -2143,7 +2141,7 @@
         "/Images/cave 9002/Untitled4.jpg",
         "/Images/cave 9002/Untitled5.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":35000,
       "category": "Cave ROOM",
       "b2b_offSeason": 28000,
       "rack_rate_offseason": 35000,
@@ -2168,7 +2166,7 @@
         "/Images/cave 9003/1697394.jpg",
         "/Images/cave 9003/1697434.jpg"
       ],
-      "rack_rate":10,
+      "rack_rate":35000,
       "category": "Cave ROOM",
       "b2b_offSeason": 28000,
       "rack_rate_offseason": 35000,

@@ -25,7 +25,7 @@ const Categories = () => {
       accumulator.push({
         name: room.category,
         inventory: 1,
-        price: room.rack_rate_seasonal,
+        price: room.rack_rate,
         b2b: room.b2b_seasonal,
         image: room.imagePath,
         amenities: room.amenities || [],
@@ -73,10 +73,10 @@ const Categories = () => {
               </Slider>
               <div className="p-4 pt-6 pb-1">
                 <h3 className="text-xl font-semibold">{category.name}</h3>
-                <p className="text-gray-500">Inventory: {category.inventory}</p>
-                <p className="text-gray-500">
+                <p className="font-semibold py-3 text-black">
                   Price: Rs. {category.price.toFixed(2)}
                 </p>
+                <p className="text-gray-500">Inventory: {category.inventory}</p>
                 <p className="text-gray-500">
                   {/* B2B Price: Rs. {category.b2b.toFixed(2)} */}
                 </p>
