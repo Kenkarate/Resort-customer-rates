@@ -140,26 +140,19 @@ const Categories = () => {
             NEW YEAR Gala Dinner @ 2000 Net / child applicable on 31th Dec 2024{" "}
             <br /> <br />
             <p>
-              <b>Cancellation policy:</b>
-              <br />
-              In case of cancellation, before 07 days of check in date, full
-              amount will be refunded.
-              <br />
-              Cancellation within 3 days or before of arrival date, 20% will be
-              deducted <br />
-              Before 24hrs of arrival date 50% will be charged.
-              <br />
-              If the cancellation is made within 24 hours of Check in date, no
-              refund will be issued
-              <br />
-              Last minute postponing also not acceptable and the full amount
-              will be held as cancellation.
-              <br />
-              In case of postponing also, if further the booking is cancelled,
-              no refund will be issued irrespective of the postponing date.
-              <br />
-              Refund will be processed on or before 7 working days
-              <br />
+            <b>Cancellation policy:</b>
+ <br /> 1.⁠ ⁠Cancellation Period: Guests must notify the reservation team of any cancellation at least 07 days prior to the scheduled arrival date to receive a full refund. 
+<br />2.⁠ ⁠Cancellation Fee: <br />
+⁠1) Before 72 hours of arrival date - 20% deduction  <br />
+2) Before 24 hours and within 72 hours of arrival date - 50% deduction <br />
+3) Within 24 hours of arrival date - 100% deduction  <br />
+4) Refund amount after cancellation fees will be issued within 07 working days after providing necessary Bank details.
+3.⁠ ⁠*No-Show:* Failure to arrive at the resort without prior notification will result in a charge equivalent to the total reservation amount.
+4.⁠ ⁠*Early Departure:* Guests who choose to depart earlier than the reserved departure date will be charged for the full reservation period.
+<br />5.⁠ ⁠⁠*Postponing*
+-Last minute postponing also not acceptable and the full amount will be held as cancellation fee.
+-Once a booking is postponed, no refund will be issued irrespective of the new arrival date.
+<br />6.⁠ ⁠*Exceptions:* In case of unforeseen circumstances such as natural disasters or government-mandated travel restrictions, the cancellation policy may be waived or adjusted at the discretion of the resort management.
             </p>
           </p>
         </div>
