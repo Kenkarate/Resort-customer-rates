@@ -20,6 +20,8 @@ const Categories = () => {
         const remainingSlots = 5 - existingCategory.gallery.length;
         existingCategory.gallery.push(...room.gallery.slice(0, remainingSlots));
       }
+
+      
     } else {
       accumulator.push({
         name: room.category,
