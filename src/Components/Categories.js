@@ -1,4 +1,3 @@
-// Categories.js
 import React from "react";
 import { Link } from "react-router-dom";
 import Slider from "react-slick";
@@ -7,6 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import Header from "./Header";
 import images from "../images.json";
 import { Button } from "@material-tailwind/react";
+import roomData from '../roomData.json'
 
 const Categories = () => {
   const categoryData = images.rooms.reduce((accumulator, room) => {
@@ -14,30 +14,30 @@ const Categories = () => {
       (category) => category.name === room.category
     );
 
+    const roomImages = roomData.categories.find(
+      (category) => category.name === room.category
+    )?.images || [];
+
     if (existingCategory) {
       existingCategory.inventory += 1;
-      if (room.gallery && existingCategory.gallery.length < 5) {
-        const remainingSlots = 5 - existingCategory.gallery.length;
-        existingCategory.gallery.push(...room.gallery.slice(0, remainingSlots));
-      }
-
-      
+      existingCategory.gallery = roomImages.length > 0 ? roomImages : existingCategory.gallery;
     } else {
       accumulator.push({
         name: room.category,
         inventory: 1,
         price: room.rack_rate_seasonal,
-        b2b:room.b2b_seasonal,
-        b2bOff:room.b2b_offSeason,
-        b2bselling:room.rack_rate_offseason,
+        b2b: room.b2b_seasonal,
         image: room.imagePath,
         amenities: room.amenities || [],
-        gallery: room.gallery ? room.gallery.slice(0, 5) : [],
+        gallery: roomImages.length > 0 ? roomImages : [],
       });
     }
 
     return accumulator;
   }, []);
+
+  // Sort categoryData in descending order based on b2b
+  const sortedCategoryData = categoryData.sort((a, b) => b.b2b - a.b2b);
 
   const settings = {
     dots: true,
@@ -45,17 +45,15 @@ const Categories = () => {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoplay: false,
-    autoplaySpeed: 5000,
-    
+    autoplay: true,
+    autoplaySpeed: 3000,
   };
 
   return (
-    <div className="bg-green-600">
-      <Header />
-      <h2 className="text-3xl font-semibold py-5 mx-[5%]">Categories</h2>
+    <div className="bg-purple-50">
+      <Header/>
       <div className="lg:grid lg:grid-cols-3 xl:grid-cols-4 gap-4 mx-[5%]">
-        {categoryData.map((category) => (
+        {sortedCategoryData.map((category) => (
           <div key={category.name} className="mb-8">
             <div
               className="bg-white rounded-lg overflow-hidden shadow-md relative"
@@ -74,17 +72,13 @@ const Categories = () => {
               </Slider>
               <div className="p-4 pt-6 pb-1">
                 <h3 className="text-xl font-semibold">{category.name}</h3>
+                <p className="font-semibold py-3 text-black">
+                  Price: Rs. {category.price.toFixed(2)}
+                </p>
                 <p className="text-gray-500">Inventory: {category.inventory}</p>
                 <p className="text-gray-500">
-                  Selling Price: Rs. {category.price.toFixed(2)}
+                  {/* B2B Price: Rs. {category.b2b.toFixed(2)} */}
                 </p>
-                {/* <p className="text-gray-500">
-                  B2B Season Price: Rs. {category.b2b.toFixed(2)}
-                </p>
-               
-                <p className="text-gray-500">
-                  B2B Off Season Price: Rs. {category.b2bOff.toFixed(2)}
-                </p> */}
                 <Link to={`/rooms/${category.name}`}>
                   <Button className="text-black my-2 p-2">View Rooms</Button>
                 </Link>
@@ -104,13 +98,10 @@ const Categories = () => {
         ))}
       </div>
       <div className=" ">
-      <p className="text-center bg-green-500 rounded font-semibold py-10 font-mono lg:text-2xl">
-          {" "}
-          <br />
-          TYPE: CURRENT ACCNT-GENERAL
-          <br /> BRANCH : MUNNAR <br /> A/C NAME :- M/S. PARAKKAT NATURE HOTEL
-          AND RESORTS <br /> A/C NO :- 0717073000000242 <br /> IFSC :-
-          SIBL0000717
+        <p className="text-center bg-green-500 rounded font-semibold py-10 font-mono lg:text-2xl">
+          Bank : AXIS BANK <br /> BRANCH : KALADY <br /> A/C NAME :- PARAKKAT
+          NATURE HOTELS & RESORTS <br /> A/C NO :- 918020055264857 <br /> IFSC
+          :- UTIB0003212
         </p>
       </div>
       <div className="grid lg:grid-cols-2 py-10 ">
@@ -155,34 +146,13 @@ const Categories = () => {
 2) Before 24 hours and within 72 hours of arrival date - 50% deduction <br />
 3) Within 24 hours of arrival date - 100% deduction  <br />
 4) Refund amount after cancellation fees will be issued within 07 working days after providing necessary Bank details.
-3.⁠ ⁠*No-Show:* Failure to arrive at the resort without prior notification will result in a charge equivalent to the total reservation amount.
-4.⁠ ⁠*Early Departure:* Guests who choose to depart earlier than the reserved departure date will be charged for the full reservation period.
-<br />5.⁠ ⁠⁠*Postponing*
+3.⁠ ⁠No-Show: Failure to arrive at the resort without prior notification will result in a charge equivalent to the total reservation amount. <br />
+
+4.⁠ ⁠Early Departure:* Guests who choose to depart earlier than the reserved departure date will be charged for the full reservation period.
+<br />5.⁠ ⁠⁠Postponing
 -Last minute postponing also not acceptable and the full amount will be held as cancellation fee.
 -Once a booking is postponed, no refund will be issued irrespective of the new arrival date.
-<br />6.⁠ ⁠*Exceptions:* In case of unforeseen circumstances such as natural disasters or government-mandated travel restrictions, the cancellation policy may be waived or adjusted at the discretion of the resort management.
-             
-             {/* <br /><br />
-              <b>Cancellation policy:</b>
-              <br />
-              In case of cancellation, before 07 days of check in date, full
-              amount will be refunded.
-              <br />
-              Cancellation within 3 days or before of arrival date, 20% will be
-              deducted <br />
-              Before 24hrs of arrival date 50% will be charged.
-              <br />
-              If the cancellation is made within 24 hours of Check in date, no
-              refund will be issued
-              <br />
-              Last minute postponing also not acceptable and the full amount
-              will be held as cancellation.
-              <br />
-              In case of postponing also, if further the booking is cancelled,
-              no refund will be issued irrespective of the postponing date.
-              <br />
-              Refund will be processed on or before 7 working days
-              <br /> */}
+<br />6.⁠ ⁠Exceptions: In case of unforeseen circumstances such as natural disasters or government-mandated travel restrictions, the cancellation policy may be waived or adjusted at the discretion of the resort management.
             </p>
           </p>
         </div>

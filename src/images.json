@@ -2317,7 +2317,8 @@
       "balcony": "Yes",
       "ac": "Yes",
       "amenities": ["1 Round bed", "Mini Bar", "Jacuzzi", "Forest view", "AC"]
-    },
+    }
+    ,
     {
       "id": 94,
       "name": "CAVE 9004",
