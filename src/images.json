@@ -2321,16 +2321,24 @@
     ,
     {
       "id": 94,
-      "name": "CAVE 9004",
+      "name": "101",
       "description": "",
-      "category": "Cave ROOM",
-      "b2b_offSeason": 28000,
-      "rack_rate_offseason": 35000,
-      "b2b_seasonal": 29500,
-      "rack_rate_seasonal": 35000,
+      "imagePath": "/Images/101/IMG-20240103-WA0025.jpg",
+      "gallery": [
+        "/Images/101/IMG-20240103-WA0025.jpg",
+        "/Images/101/IMG-20240103-WA0040.jpg",
+        "/Images/101/IMG-20240103-WA0046.jpg",
+        "/Images/101/IMG-20240103-WA0052.jpg",
+        "/Images/101/IMG-20240103-WA0054.jpg"
+      ],
+      "category": "Jacuzzi Family Room",
+      "b2b_offSeason": 14500,
+      "rack_rate_offseason": 18000,
+      "b2b_seasonal": 16000,
+      "rack_rate_seasonal": 20000,
       "balcony": "Yes",
       "ac": "Yes",
-      "amenities": ["1 Bedroom", "jacuzzi", "Balcony", "AC"]
+      "amenities": ["2 Bedroom","1 Round bed","2 Bathroom","Jacuzzi","Living area","Private Balcony", "AC"]
     }
   ]
 }

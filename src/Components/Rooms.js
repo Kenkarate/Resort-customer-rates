@@ -28,13 +28,13 @@ const Rooms = ({ rooms }) => {
           <div key={room.id} className="p-5">
             <Link to={`/product/${room.id}`}>
               <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                <img className="w-full" src={room.imagePath} alt={room.name} />
+                <img className="w-full" src={room.imagePath||"no Images found"} alt={room.name} />
                 <div class="px-6 py-4">
                   <div class="font-bold text-xl mb-2">
                     <h3>{room.name}</h3>
                   </div>
                   <p class="text-black  font-semibold">
-                    Price :  {room.rack_rate || "No description available."}
+                    Price :  {room.rack_rate_seasonal || "Not available."}
                   </p>
                 </div>
                 <div class="px-6 pt-4 pb-2">
