@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import Header from "./Header";
 import images from "../images.json";
 import { Button } from "@material-tailwind/react";
-import roomData from '../roomData.json'
+import roomData from "../roomData.json";
 
 const Categories = () => {
   const categoryData = images.rooms.reduce((accumulator, room) => {
@@ -14,13 +14,14 @@ const Categories = () => {
       (category) => category.name === room.category
     );
 
-    const roomImages = roomData.categories.find(
-      (category) => category.name === room.category
-    )?.images || [];
+    const roomImages =
+      roomData.categories.find((category) => category.name === room.category)
+        ?.images || [];
 
     if (existingCategory) {
       existingCategory.inventory += 1;
-      existingCategory.gallery = roomImages.length > 0 ? roomImages : existingCategory.gallery;
+      existingCategory.gallery =
+        roomImages.length > 0 ? roomImages : existingCategory.gallery;
     } else {
       accumulator.push({
         name: room.category,
@@ -51,7 +52,7 @@ const Categories = () => {
 
   return (
     <div className="bg-purple-50">
-      <Header/>
+      <Header />
       <div className="lg:grid lg:grid-cols-3 xl:grid-cols-4 gap-4 mx-[5%]">
         {sortedCategoryData.map((category) => (
           <div key={category.name} className="mb-8">
@@ -99,9 +100,12 @@ const Categories = () => {
       </div>
       <div className=" ">
         <p className="text-center bg-green-500 rounded font-semibold py-10 font-mono lg:text-2xl">
-          Bank : AXIS BANK <br /> BRANCH : KALADY <br /> A/C NAME :- PARAKKAT
-          NATURE HOTELS & RESORTS <br /> A/C NO :- 918020055264857 <br /> IFSC
-          :- UTIB0003212
+          {" "}
+          <br />
+          TYPE: CURRENT ACCNT-GENERAL
+          <br /> BRANCH : MUNNAR <br /> A/C NAME :- M/S. PARAKKAT NATURE HOTEL
+          AND RESORTS <br /> A/C NO :- 0717073000000242 <br /> IFSC :-
+          SIBL0000717
         </p>
       </div>
       <div className="grid lg:grid-cols-2 py-10 ">
@@ -139,20 +143,41 @@ const Categories = () => {
             NEW YEAR Gala Dinner @ 2000 Net / child applicable on 31th Dec 2024{" "}
             <br /> <br />
             <p>
-            <b>Cancellation policy:</b>
- <br /> 1.⁠ ⁠Cancellation Period: Guests must notify the reservation team of any cancellation at least 07 days prior to the scheduled arrival date to receive a full refund. 
-<br />2.⁠ ⁠Cancellation Fee: <br />
-⁠1) Before 72 hours of arrival date - 20% deduction  <br />
-2) Before 24 hours and within 72 hours of arrival date - 50% deduction <br />
-3) Within 24 hours of arrival date - 100% deduction  <br />
-4) Refund amount after cancellation fees will be issued within 07 working days after providing necessary Bank details.
-3.⁠ ⁠No-Show: Failure to arrive at the resort without prior notification will result in a charge equivalent to the total reservation amount. <br />
-
-4.⁠ ⁠Early Departure:* Guests who choose to depart earlier than the reserved departure date will be charged for the full reservation period.
-<br />5.⁠ ⁠⁠Postponing
--Last minute postponing also not acceptable and the full amount will be held as cancellation fee.
--Once a booking is postponed, no refund will be issued irrespective of the new arrival date.
-<br />6.⁠ ⁠Exceptions: In case of unforeseen circumstances such as natural disasters or government-mandated travel restrictions, the cancellation policy may be waived or adjusted at the discretion of the resort management.
+              <b>Cancellation policy:</b>
+               <br /> 1.⁠ ⁠Cancellation Period: Guests must notify the
+              reservation team of any cancellation at least 07 days prior to the
+              scheduled arrival date to receive a full refund.
+              <br />
+              2.⁠ ⁠Cancellation Fee: <br />
+              <ol className="pl-[2%]">
+                <li>⁠1) Before 72 hours of arrival date - 20% deduction </li>
+                <li>
+                  2) Before 24 hours and within 72 hours of arrival date - 50%
+                  deduction{" "}
+                </li>
+                <li>3) Within 24 hours of arrival date - 100% deduction </li>
+              </ol>
+             
+              3. Refund amount after cancellation fees will be issued within 07
+              working days after providing necessary Bank details.
+              <br />
+              
+              4.⁠ ⁠*No-Show:* Failure to arrive at the resort without prior
+              notification will result in a charge equivalent to the total
+              reservation amount.
+              <br />
+              5.⁠ ⁠*Early Departure:* Guests who choose to depart earlier than
+              the reserved departure date will be charged for the full
+              reservation period. -Last minute postponing also not acceptable
+              and the full amount will be held as cancellation fee. -Once a
+              booking is postponed, no refund will be issued irrespective of the
+              new arrival date.
+              <br />
+              6.⁠ ⁠*Exceptions:* In case of unforeseen circumstances such as
+              natural disasters or government-mandated travel restrictions, the
+              cancellation policy may be waived or adjusted at the discretion of
+              the resort management.
+          
             </p>
           </p>
         </div>
@@ -175,7 +200,7 @@ const Categories = () => {
                 <ul>
                   <li>
                     • Off road Jeep Trekking (Inside the property,
-                    <b>Morning 8:30-10:30 AM, Evening 4:30-6:30 PM</b> ){" "}
+                    <b> Evening 3-6 PM</b> ){" "}
                   </li>
                   <li>• Pool Usage (7 am to 7 pm)</li>
                   <li>• Rope Way</li>
@@ -219,4 +244,3 @@ const Categories = () => {
 };
 
 export default Categories;
-
