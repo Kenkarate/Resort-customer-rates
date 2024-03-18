@@ -1371,50 +1371,7 @@
         "AC"
       ]
     },
-    {
-      "id": 57,
-      "name": "PREMIUM QUADRA 3002",
-      "description": "",
-      "imagePath": "/Images/premium 2005/34677537.jpg",
-      "gallery": [
-        "/Images/premium 2005/34677537.jpg",
-        "/Images/premium 2005/34677524.jpg",
-        "/Images/premium 2005/34677234.jpg"
-      ],
-      "category": "Premium Quadra Family Room",
-      "b2b_offSeason": 8000,
-      "rack_rate_offseason": 11000,
-      "b2b_seasonal": 9000,
-      "rack_rate_seasonal": 12000,
-      "balcony": "No",
-      "ac": "Yes",
-      "amenities": ["2 Queen-size bed", "1 Bathroom", "Mini Bar", "AC"]
-    },
-    {
-      "id": 58,
-      "name": "PREMIUM QUADRA 3004",
-      "description": "",
-      "imagePath": "/Images/premium quadra 3004/76547643.jpg",
-      "gallery": [
-        "/Images/premium quadra 3004/76547643.jpg",
-        "/Images/premium quadra 3004/76547654.jpg",
-        "/Images/premium quadra 3004/76547324.jpg"
-      ],
-      "category": "Premium Quadra Family Room",
-      "b2b_offSeason": 8000,
-      "rack_rate_offseason": 11000,
-      "b2b_seasonal": 9000,
-      "rack_rate_seasonal": 12000,
-      "balcony": "No",
-      "ac": "Yes",
-      "amenities": [
-        "2 King-size bed",
-        "1 Bathroom",
-        "Mini Bar",
-        "Interconnected 2 Bedroom",
-        "AC"
-      ]
-    },
+    
 
     {
       "id": 60,
