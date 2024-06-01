@@ -17,7 +17,14 @@
       "b2b_seasonal": 4500,
       "balcony": "no",
       "ac": "no",
-      "amenities": ["Double bed", "1 Bathroom", "Common Balcony", "Non-AC"]
+      "amenities": [
+        "Double bed",
+        "1 Bathroom",
+        "Common Balcony",
+        "Non-AC",
+        "2 Adults",
+        "1 kid below 5yr"
+      ]
     },
     {
       "id": 2,
@@ -36,7 +43,14 @@
       "b2b_seasonal": 4500,
       "balcony": "No",
       "ac": "No",
-      "amenities": ["Double bed", "1 Bathroom", "Common Balcony", "Non-AC"]
+      "amenities": [
+        "Double bed",
+        "1 Bathroom",
+        "Common Balcony",
+        "Non-AC",
+        "2 Adults",
+        "1 kid below 5yr"
+      ]
     },
     {
       "id": 3,
@@ -55,7 +69,14 @@
       "b2b_seasonal": 4500,
       "balcony": "No",
       "ac": "No",
-      "amenities": ["Double bed", "1 Bathroom", "Common Balcony", "Non-AC"]
+      "amenities": [
+        "Double bed",
+        "1 Bathroom",
+        "Common Balcony",
+        "Non-AC",
+        "2 Adults",
+        "1 kid below 5yr"
+      ]
     },
     {
       "id": 4,
@@ -75,7 +96,14 @@
       "b2b_seasonal": 4500,
       "balcony": "No",
       "ac": "No",
-      "amenities": ["Double bed", "1 Bathroom", "Common Balcony", "Non-AC"]
+      "amenities": [
+        "Double bed",
+        "1 Bathroom",
+        "Common Balcony",
+        "Non-AC",
+        "2 Adults",
+        "1 kid below 5yr"
+      ]
     },
     {
       "id": 5,
@@ -101,7 +129,9 @@
         "Free Wi-Fi",
         "Common Balcony",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC",
+        "2 Adults",
+        "1 kid below 5yr"
       ]
     },
 
@@ -130,7 +160,7 @@
         "Queen-size bed",
         "Common Balcony",
         "2 Bathroom",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -155,7 +185,7 @@
         "2 Bathroom",
         "Free Wi-Fi",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -175,7 +205,7 @@
       "rack_rate_seasonal": 9000,
       "balcony": "Common",
       "ac": "No",
-      "amenities": ["2 Double  bed", "1 Bathroom", "Common Balcony", "Non-AC"]
+      "amenities": ["2 Double  bed", "1 Bathroom", "Common Balcony", "Non-AC","3 Adults","2 kid below 5yr"]
     },
     {
       "id": 9,
@@ -198,7 +228,7 @@
         "Interconnected 2 Bedroom",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -223,7 +253,7 @@
         "Interconnected 2 Bedroom",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -248,7 +278,7 @@
         "Interconnected 2 Bedroom",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -269,7 +299,7 @@
         "1 King-size bed",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -290,7 +320,7 @@
         "1 King-size bed",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -314,7 +344,7 @@
         "1 King-size bed",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","3 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -338,7 +368,7 @@
         "1 King-size bed",
         "1 Bathroom",
         "Common Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -368,7 +398,7 @@
         "2 Bathroom",
         "Common Balcony",
         "2 Queen-size bed",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -388,7 +418,7 @@
       "rack_rate_seasonal": 7500,
       "balcony": "no",
       "ac": "no",
-      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC"]
+      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC","2 Adults","1 kid below 5yr"]
     },
     {
       "id": 18,
@@ -407,7 +437,7 @@
       "rack_rate_seasonal": 7500,
       "balcony": "no",
       "ac": "Yes",
-      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "AC"]
+      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "AC","2 Adults","1 kid below 5yr"]
     },
     {
       "id": 19,
@@ -431,7 +461,7 @@
         "1 Bathroom",
         " Glass view",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -455,7 +485,7 @@
         "1 Bathroom",
         " Glass view",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -474,7 +504,7 @@
       "rack_rate_seasonal": 7500,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC"]
+      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC","2 Adults","1 kid below 5yr"]
     },
     {
       "id": 22,
@@ -498,7 +528,7 @@
         "1 Bathroom",
         "Private Balcony",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -523,7 +553,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -548,7 +578,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -573,7 +603,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -601,7 +631,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -626,7 +656,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -651,7 +681,7 @@
         "Common Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -676,7 +706,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -696,18 +726,17 @@
       "rack_rate_seasonal": 7500,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC"]
+      "amenities": ["1 Queen-size bed", "1 Bathroom", "Mini Bar", "Non-AC","2 Adults","1 kid below 5yr"]
     },
     {
       "id": 31,
       "name": "CLA DLX 900",
       "description": "",
-      "imagePath": "/Images/classic deluxe 900/35379694.jpg",
+      "imagePath": "/Images/superior 1006/675735426.jpg",
       "gallery": [
-        "/Images/classic deluxe 900/35379694.jpg",
-        "/Images/classic deluxe 900/3537694.jpg",
-        "/Images/classic deluxe 900/3537835.jpg",
-        "/Images/classic deluxe 900/3537624.jpg"
+        "/Images/superior 1006/675735426.jpg",
+        "/Images/superior 1006/675735436.jpg",
+        "/Images/superior 1006/675732646.jpg"
       ],
       "category": "Classic series",
       "b2b_offSeason": 4750,
@@ -721,7 +750,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -746,7 +775,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -771,7 +800,7 @@
         " Common Balcony",
         "Pool View",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -795,7 +824,7 @@
         " Common Balcony",
         "Pool View",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -820,7 +849,7 @@
         " Common Balcony",
         "Pool View",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -844,7 +873,7 @@
         " Common Balcony",
         "Pool View",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -869,7 +898,7 @@
         "Balcony",
         "1 Bathroom",
         "Private Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -894,7 +923,7 @@
         "Balcony",
         "1 Bathroom",
         "Private Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -919,7 +948,7 @@
         "Balcony",
         "1 Bathroom",
         "Private Balcony",
-        "Non-AC"
+        "Non-AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -944,7 +973,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -969,7 +998,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -994,7 +1023,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1018,7 +1047,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1044,7 +1073,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1071,7 +1100,7 @@
         "Private Balcony",
         "Bath tub",
         "Mini Bar",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1096,7 +1125,7 @@
         "1 Double bed",
         "Private Balcony",
         "Mini Bar",
-        "AC"
+        "AC","3 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1123,7 +1152,7 @@
         "Living area",
         "Mini Bar",
         "Private Balcony",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1149,7 +1178,7 @@
         "Living area",
         "Mini Bar",
         "Private Balcony",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1158,6 +1187,7 @@
       "description": "",
       "imagePath": "/Images/superior 2004/85686534.jpg",
       "gallery": [
+        "/Images/superior 2004/85686534.jpg",
         "/Images/superior 2004/8536446.jpg",
         "/Images/superior 2004/8563454.jpg"
       ],
@@ -1174,7 +1204,7 @@
         "Living area",
         "Mini Bar",
         "Non-AC",
-        "Private Balcony"
+        "Private Balcony","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1200,7 +1230,7 @@
         "Living area",
         "Mini Bar",
         "Non-AC",
-        "Common Balcony"
+        "Common Balcony","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1228,7 +1258,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1256,7 +1286,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1284,7 +1314,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1311,7 +1341,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1339,7 +1369,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1368,11 +1398,9 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
-    
-
     {
       "id": 60,
       "name": "PREMIUM CLUB SUITE 102",
@@ -1397,7 +1425,7 @@
         "Private Balcony",
         "Mountain View",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
 
@@ -1424,7 +1452,7 @@
         "1 Queen-size bed",
         "1 Bathroom",
         "Private Balcony",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1451,7 +1479,7 @@
         "1 Bathroom",
         "Mini Bar",
         "360-degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1478,7 +1506,7 @@
         "1 Bathroom",
         "Mini Bar",
         "360-degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1505,7 +1533,7 @@
         "Private Balcony",
         "Mini Bar",
         "90 degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1532,7 +1560,7 @@
         "Private Balcony",
         "Mini Bar",
         "90 degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1558,7 +1586,7 @@
         "Private Balcony",
         "Mini Bar",
         "90 degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1584,7 +1612,7 @@
         "Private Balcony",
         "Mini Bar",
         "90 degree view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1614,7 +1642,7 @@
         "Private Balcony",
         "Mini Bar",
         "360-degree view",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1643,7 +1671,7 @@
         "2 Bathroom",
         "Private Balcony",
         "Mini Bar",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1672,7 +1700,7 @@
         "2 Bathroom",
         "Private Balcony",
         "Mini Bar",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1701,7 +1729,7 @@
         "2 Bathroom",
         "Private Balcony",
         "Mini Bar",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1727,7 +1755,7 @@
         "1 Bathroom",
         "Private Balcony",
         "Mini Bar",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
 
@@ -1754,7 +1782,7 @@
         "Queen-size bed",
         "Common Balcony",
         "1 Bathroom",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1781,7 +1809,7 @@
         "1 Bathroom",
         "Jacuzzi",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1806,7 +1834,7 @@
         "Private Balcony",
         "1 Bathroom",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1843,7 +1871,7 @@
         "1 Bathroom",
         "Mini Bar",
         " Glass view",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -1873,7 +1901,7 @@
         "Private Balcony",
         "Mini Bar",
         "2 Bathroom",
-        "AC"
+        "AC","6 Adults","3 kid below 5yr"
       ]
     },
     {
@@ -1901,7 +1929,7 @@
         "Private Balcony",
         "Mini Bar",
         "2 Bathroom",
-        "AC"
+        "AC","6 Adults","3 kid below 5yr"
       ]
     },
     {
@@ -1913,7 +1941,6 @@
         "/Images/single pool villa/87576456.jpg",
         "/Images/single pool villa/85675485.jpg",
         "/Images/single pool villa/87576648.jpg",
-        "/Images/single pool villa/875764564.jpg",
         "/Images/single pool villa/875764565.jpg",
         "/Images/single pool villa/875764569.jpg"
       ],
@@ -1930,7 +1957,7 @@
         "1 Bathroom",
         "Private Pool",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1957,7 +1984,7 @@
         "1 Bathroom",
         "Jacuzzi",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -1984,7 +2011,7 @@
         "1 Bathroom",
         "Jacuzzi",
         "Mini Bar",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2010,7 +2037,7 @@
         "Jacuzzi",
         "Mini Bar",
         "Private Balcony",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2037,7 +2064,7 @@
         "Jacuzzi",
         "Mini Bar",
         "Private Balcony",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2069,7 +2096,7 @@
         "Mini Bar",
         "2 Bathroom",
         "Saftey Deposit Box",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -2101,7 +2128,7 @@
         "Private Balcony",
         "2 Private Entrance",
         "Interconnected 2 Bedroom",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -2133,7 +2160,7 @@
         "3 Bathroom",
         "Private Pool",
         "Private Balcony",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -2163,7 +2190,7 @@
         "Private Balcony",
         "Mini Bar",
         "Private Pool",
-        "AC"
+        "AC","4 Adults","2 kid below 5yr"
       ]
     },
     {
@@ -2188,7 +2215,7 @@
         "Private Balcony",
         "Mini Bar",
         "Forest view",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2214,7 +2241,7 @@
         "Private Balcony",
         "Mini Bar",
         "Forest view",
-        "Non-AC"
+        "Non-AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2248,7 +2275,7 @@
         "Mini Bar",
         "Jacuzzi",
         "Forest view",
-        "AC"
+        "AC","2 Adults","1 kid below 5yr"
       ]
     },
     {
@@ -2273,9 +2300,8 @@
       "rack_rate_seasonal": 35000,
       "balcony": "Yes",
       "ac": "Yes",
-      "amenities": ["1 Round bed", "Mini Bar", "Jacuzzi", "Forest view", "AC"]
-    }
-    ,
+      "amenities": ["1 Round bed", "Mini Bar", "Jacuzzi", "Forest view", "AC","2 Adults","1 kid below 5yr"]
+    },
     {
       "id": 94,
       "name": "101",
@@ -2295,7 +2321,15 @@
       "rack_rate_seasonal": 20000,
       "balcony": "Yes",
       "ac": "Yes",
-      "amenities": ["2 Bedroom","1 Round bed","2 Bathroom","Jacuzzi","Living area","Private Balcony", "AC"]
+      "amenities": [
+        "2 Bedroom",
+        "1 Round bed",
+        "2 Bathroom",
+        "Jacuzzi",
+        "Living area",
+        "Private Balcony",
+        "AC","3 Adults","2 kid below 5yr"
+      ]
     }
   ]
 }
