@@ -732,11 +732,11 @@
       "id": 31,
       "name": "CLA DLX 900",
       "description": "",
-      "imagePath": "/Images/superior 1006/675735426.jpg",
+      "imagePath": "/Images/classic delux 900/675735426.jpg",
       "gallery": [
-        "/Images/superior 1006/675735426.jpg",
-        "/Images/superior 1006/675735436.jpg",
-        "/Images/superior 1006/675732646.jpg"
+        "/Images/classic delux 900/675735426.jpg",
+        "/Images/classic delux 900/675735436.jpg",
+        "/Images/classic delux 900/675732646.jpg"
       ],
       "category": "Classic series",
       "b2b_offSeason": 4750,
@@ -1159,11 +1159,12 @@
       "id": 48,
       "name": "SUPR 1006",
       "description": "",
-      "imagePath": "/Images/superior 1006/675735426.jpg",
+      "imagePath": "/Images/superior-1006/35379694.jpg",
       "gallery": [
-        "/Images/superior 1006/675735426.jpg",
-        "/Images/superior 1006/675735436.jpg",
-        "/Images/superior 1006/675732646.jpg"
+        "/Images/superior-1006/35379694.jpg",
+        "/Images/superior-1006/3537835.jpg",
+        "/Images/superior-1006/3537694.jpg",
+        "/Images/superior-1006/3537624.jpg"
       ],
       "category": "superior",
       "rack_rate_offseason": 9000,

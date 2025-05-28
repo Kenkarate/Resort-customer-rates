@@ -11,7 +11,7 @@ const ProductDetail = ({ rooms }) => {
   if (!room) {
     return <div>Room not found!</div>;
   }
-
+console.log(room);
   return (
     <div className="">
       <div className="p-5 bg-green-600">
@@ -51,7 +51,7 @@ const ProductDetail = ({ rooms }) => {
           </h2>
           {/* <p className="p-5 py-4 text-2xl font-semibold">Selling Price: Rs. {room.rack_rate_offseason}</p>
           <p className="p-5 py-4 text-2xl font-semibold">B2B Price: Rs. {room.b2b_seasonal}</p> */}
-          <p className="p-5 py-4 text-2xl font-semibold"> Price: Rs. {room.rack_rate}</p>
+          <p className="p-5 py-4 text-2xl font-semibold"> Price: Rs. {room.rack_rate_offseason}</p>
           <p className="p-5 pb-4 text-xl">
             <b>Amenities: </b>
             {room.amenities && room.amenities.length > 0 ? (
