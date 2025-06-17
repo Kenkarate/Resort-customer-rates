@@ -133,7 +133,7 @@ const Categories = () => {
           <p className="bg-red-50 p-2 px-[5%]">
             {" "}
             <b>Mandatory Supplements</b> <br />
-            20 % Hike applicable from 21st Dec. 2024 to 05th Jan. 2024 <br />
+            20 % Hike applicable from 21st Dec. 2025 to 05th Jan. 2026 <br />
             CHRISTMAS Eve Dinner @ net 2500 / head applicable on 24th Dec 2024{" "}
             <br />
             CHRISTMAS Eve Dinner @ 1750 net / child applicable on 24th Dec 2024{" "}
@@ -211,7 +211,6 @@ const Categories = () => {
                   <li>• Rope way cycling</li>
                   <li>• Rain Dance</li>
                   <li>• Breakfast with 100 spread</li>
-                  <li>• GYM</li>
                   <li>• Gaming Area</li>
                 </ul>
               </li>
